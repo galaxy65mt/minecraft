@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0353a03d934432dfa99ec414295afec8"
+	name: "nino_alf#0353a03d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

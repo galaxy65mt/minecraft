@@ -8706,3 +8706,95 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [26Apr2025 16:07:03.444] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [26Apr2025 16:07:27.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Dread Hound
 [26Apr2025 16:07:27.832] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:09:40.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancito_KawaiiG[/127.244.71.71:46803] logged in with entity id 1436 at (25.5, 94.0, -8.5)
+[26Apr2025 16:09:40.291] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[26Apr2025 16:09:40.292] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[26Apr2025 16:09:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG joined the game
+[26Apr2025 16:09:40.408] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dd0c9ee7-09db-3026-99f3-011946b01c57
+[26Apr2025 16:09:40.607] [Server thread/INFO] [Jade/]: Syncing config to Pancito_KawaiiG (dd0c9ee7-09db-3026-99f3-011946b01c57)
+[26Apr2025 16:09:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Restricted Portals]
+[26Apr2025 16:09:43.259] [Server thread/INFO] [ping-wheel/]: Channel update: Pancito_KawaiiG -> default
+[26Apr2025 16:09:43.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pancito_KawaiiG (18)
+[26Apr2025 16:09:43.279] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pancito_KawaiiG
+[26Apr2025 16:09:50.331] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:10:04.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=93, z=-8}
+[26Apr2025 16:10:06.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=93, z=-9}
+[26Apr2025 16:10:06.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=93, z=-9}
+[26Apr2025 16:10:07.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=93, z=-9}
+[26Apr2025 16:10:16.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=22, y=93, z=-10}
+[26Apr2025 16:11:27.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nino_alf[/127.33.4.109:39291] logged in with entity id 1651 at (13.5, 97.0, -15.5)
+[26Apr2025 16:11:27.848] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[26Apr2025 16:11:27.849] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[26Apr2025 16:11:27.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf joined the game
+[26Apr2025 16:11:27.970] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[26Apr2025 16:11:28.035] [Server thread/INFO] [Jade/]: Syncing config to nino_alf (0353a03d-9344-32df-a99e-c414295afec8)
+[26Apr2025 16:11:28.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Restricted Portals]
+[26Apr2025 16:11:29.196] [Server thread/INFO] [ping-wheel/]: Channel update: nino_alf -> default
+[26Apr2025 16:11:29.231] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nino_alf (18)
+[26Apr2025 16:11:29.232] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nino_alf
+[26Apr2025 16:11:35.777] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:11:39.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=112, z=-57} BlockPos{x=53, y=110, z=-57}
+[26Apr2025 16:11:39.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=112, z=-57} BlockPos{x=53, y=110, z=-57}
+[26Apr2025 16:11:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Is this... blood?]
+[26Apr2025 16:12:04.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Siamese Skeletons
+[26Apr2025 16:12:04.864] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:12:28.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=108, z=-44} BlockPos{x=17, y=94, z=-4}
+[26Apr2025 16:12:28.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=108, z=-44} BlockPos{x=17, y=94, z=-4}
+[26Apr2025 16:12:28.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=108, z=-44} BlockPos{x=17, y=94, z=-4}
+[26Apr2025 16:12:32.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=108, z=-44} BlockPos{x=31, y=94, z=-10}
+[26Apr2025 16:13:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Dungeon Now Loading]
+[26Apr2025 16:14:14.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Stone Age]
+[26Apr2025 16:14:41.565] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 16:14:41.566] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 16:14:41.567] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:14:41.567] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:14:41.568] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:14:41.568] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:14:42.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Hunt and Gather]
+[26Apr2025 16:15:46.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
+[26Apr2025 16:15:46.689] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:15:59.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Bloodthirsty]
+[26Apr2025 16:17:34.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Baby Skeleton
+[26Apr2025 16:17:35.301] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:17:42.370] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[26Apr2025 16:17:44.873] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[26Apr2025 16:17:50.008] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.017] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.038] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.051] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.058] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.066] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.074] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.095] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.104] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.108] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.114] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.129] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.133] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.139] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.144] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.149] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:50.156] [Worker-Main-5/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:17:52.851] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26Apr2025 16:17:56.258] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=151}
+[26Apr2025 16:17:56.259] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=149}
+[26Apr2025 16:18:07.790] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:18:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Zombie Villager
+[26Apr2025 16:18:18.736] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:18:42.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=306, y=96, z=-201} BlockPos{x=307, y=96, z=-201}
+[26Apr2025 16:18:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie Villager
+[26Apr2025 16:18:44.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Is this... blood?]
+[26Apr2025 16:18:44.945] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:18:53.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[26Apr2025 16:18:54.179] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:19:16.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Dread Hound
+[26Apr2025 16:19:16.588] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:19:28.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Monster Hunter]
+[26Apr2025 16:19:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[26Apr2025 16:19:40.492] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:20:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Angry Creeper
+[26Apr2025 16:20:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m hit the ground too hard
+[26Apr2025 16:20:08.412] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:20:08.527] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:20:12.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-212, y=-31, z=184}
+[26Apr2025 16:20:23.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=95, z=-10}

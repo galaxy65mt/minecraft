@@ -1,0 +1,23 @@
+{
+	id: "b90f8e93-2fa6-4b7b-81fe-09901451ed24"
+	type: "party"
+	owner: "dd0c9ee7-09db-3026-99f3-011946b01c57"
+	ranks: {
+		df766ae6-3208-3bf3-8926-4d9ae4061ea9: "invited"
+		dd0c9ee7-09db-3026-99f3-011946b01c57: "owner"
+		0353a03d-9344-32df-a99e-c414295afec8: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "party random"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745684287638L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pancito_KawaiiG\"}]}" }
+		{ from: "dd0c9ee7-09db-3026-99f3-011946b01c57", date: 1745684303294L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"nino_alf\"}]}" }
+		{ from: "dd0c9ee7-09db-3026-99f3-011946b01c57", date: 1745684303294L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"galaxy65m\"}]}" }
+	]
+	extra: { }
+}

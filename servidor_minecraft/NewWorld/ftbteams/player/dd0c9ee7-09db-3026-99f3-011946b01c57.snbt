@@ -1,0 +1,15 @@
+{
+	id: "dd0c9ee7-09db-3026-99f3-011946b01c57"
+	type: "player"
+	player_name: "Pancito_KawaiiG"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Pancito_KawaiiG"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
