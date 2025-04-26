@@ -9307,3 +9307,37 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [26Apr2025 17:30:06.202] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [26Apr2025 17:30:06.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/40591, l='ServerLevel[NewWorld]', x=772.49, y=-65.00, z=60.76] died, message: 'Farmer was killed'
 [26Apr2025 17:30:23.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/40588, l='ServerLevel[NewWorld]', x=868.37, y=65.56, z=51.72] died, message: 'Nitwit suffocated in a wall'
+[26Apr2025 17:31:29.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Archeologist'/42127, l='ServerLevel[NewWorld]', x=809.52, y=-65.00, z=131.18] died, message: 'Archeologist was killed'
+[26Apr2025 17:31:30.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40710, l='ServerLevel[NewWorld]', x=904.72, y=74.00, z=80.63] died, message: 'Unemployed suffocated in a wall'
+[26Apr2025 17:31:48.069] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[26Apr2025 17:31:48.069] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[26Apr2025 17:31:48.069] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[26Apr2025 17:31:48.069] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[26Apr2025 17:31:57.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1054, y=70, z=-54} BlockPos{x=1053, y=69, z=-54}
+[26Apr2025 17:31:57.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1054, y=70, z=-54} BlockPos{x=1053, y=69, z=-54}
+[26Apr2025 17:31:57.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1054, y=70, z=-54} BlockPos{x=1053, y=69, z=-54}
+[26Apr2025 17:31:57.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1054, y=70, z=-54} BlockPos{x=1053, y=69, z=-54}
+[26Apr2025 17:31:57.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1054, y=70, z=-54} BlockPos{x=1053, y=69, z=-54}
+[26Apr2025 17:32:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Placed 1 Item!]
+[26Apr2025 17:34:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[26Apr2025 17:34:37.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[26Apr2025 17:35:14.809] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[26Apr2025 17:35:14.809] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[26Apr2025 17:35:26.205] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[26Apr2025 17:35:26.222] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[26Apr2025 17:36:18.176] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=677, y=16, z=-50}
+[26Apr2025 17:36:18.176] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=677, y=16, z=-50}
+[26Apr2025 17:36:18.176] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=677, y=16, z=-50}
+[26Apr2025 17:37:04.841] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Apr2025 17:37:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[26Apr2025 17:38:00.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[26Apr2025 17:38:32.330] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26Apr2025 17:38:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [First Village]
+[26Apr2025 17:39:11.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [First Village]
+[26Apr2025 17:39:17.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Sweet Dreams]
+[26Apr2025 17:39:27.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Diamonds!]
+[26Apr2025 17:39:31.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie Bruiser
+[26Apr2025 17:39:31.892] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:40:01.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[26Apr2025 17:40:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Sweet Dreams]
+[26Apr2025 17:40:52.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Close Quarters]

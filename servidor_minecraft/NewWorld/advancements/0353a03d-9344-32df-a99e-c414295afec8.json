@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-04-26 17:38:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 16:49:46 +0000"
@@ -254,6 +260,12 @@
   "woodworks:recipes/decorations/birch_chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-26 16:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 17:40:10 +0000"
     },
     "done": true
   },
@@ -1186,6 +1198,12 @@
       "has_cobblestone": "2025-04-26 16:21:34 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-04-26 17:38:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
