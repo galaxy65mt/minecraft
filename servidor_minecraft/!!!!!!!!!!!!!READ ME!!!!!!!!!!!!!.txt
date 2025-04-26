@@ -1,0 +1,8 @@
+If you encounter any issues during installation either contact your host's support team or send a report in ⁠〔🗿〕bug-reports in 
+⁠Beyond Depth's discord server where you'll usually get an answer on the same day 
+(do note that time zones exist and mods are people too who need to sleep so answer might be delayed for a few hours)
+
+pack requires 6gb ram to run and +1 gb ram for each player
+
+Java 17
+Forge 47.4.0

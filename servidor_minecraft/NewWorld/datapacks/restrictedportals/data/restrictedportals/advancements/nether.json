@@ -1,0 +1,1 @@
+{"display":{"icon":{"item":"undergarden:forgotten_ingot"},"title":"Nether Unlocked!","description":"Obtain a item.undergarden.forgotten_ingot"},"parent":"restrictedportals:root","criteria":{"nether":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["undergarden:forgotten_ingot"]}]}}},"requirements":[["nether"]]}
