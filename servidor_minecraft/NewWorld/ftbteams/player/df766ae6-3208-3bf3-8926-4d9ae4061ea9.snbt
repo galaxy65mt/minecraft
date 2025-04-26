@@ -2,9 +2,7 @@
 	id: "df766ae6-3208-3bf3-8926-4d9ae4061ea9"
 	type: "player"
 	player_name: "galaxy65m"
-	ranks: {
-		df766ae6-3208-3bf3-8926-4d9ae4061ea9: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "galaxy65m"
 		"ftbteams:description": ""

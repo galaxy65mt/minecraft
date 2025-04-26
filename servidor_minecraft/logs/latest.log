@@ -8798,3 +8798,78 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [26Apr2025 16:20:08.527] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [26Apr2025 16:20:12.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-212, y=-31, z=184}
 [26Apr2025 16:20:23.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=95, z=-10}
+[26Apr2025 16:20:55.750] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:20:55.751] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:20:55.751] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[26Apr2025 16:21:02.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Corpse Fly
+[26Apr2025 16:21:02.785] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:21:10.490] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:21:27.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[26Apr2025 16:21:27.890] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:21:30.909] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:21:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m bled to death
+[26Apr2025 16:21:32.489] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:21:34.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Stone Age]
+[26Apr2025 16:21:49.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was blown up by Creeper
+[26Apr2025 16:21:49.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:22:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Monster Hunter]
+[26Apr2025 16:23:22.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Siamese Skeleton
+[26Apr2025 16:23:23.132] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:23:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Murmur
+[26Apr2025 16:23:24.127] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:23:26.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 16:23:27.113] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:24:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Flexible Schedule]
+[26Apr2025 16:24:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Murmur
+[26Apr2025 16:24:16.266] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:24:41.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was doomed to fall by Murmur
+[26Apr2025 16:24:41.747] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:25:28.648] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[26Apr2025 16:25:28.649] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 16:25:28.649] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 16:25:28.649] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 16:25:28.650] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:25:28.651] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:25:28.651] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:26:17.197] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[26Apr2025 16:26:17.197] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:26:17.197] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:26:27.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Corpse Fish
+[26Apr2025 16:26:27.449] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:26:33.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[26Apr2025 16:26:34.243] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:26:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Alex's Mobs]
+[26Apr2025 16:26:45.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/7142, l='ServerLevel[NewWorld]', x=-334.50, y=-65.00, z=452.50] died, message: 'Butcher was killed'
+[26Apr2025 16:26:49.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/7239, l='ServerLevel[NewWorld]', x=-346.50, y=-65.00, z=466.50] died, message: 'Butcher was killed'
+[26Apr2025 16:27:06.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 16:27:07.334] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:27:11.752] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6989, l='ServerLevel[NewWorld]', x=-185.83, y=95.00, z=-148.13, removed=DISCARDED]
+[26Apr2025 16:27:13.188] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6989, l='ServerLevel[NewWorld]', x=-185.83, y=95.00, z=-148.13, removed=DISCARDED]
+[26Apr2025 16:27:28.733] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:27:28.733] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:27:28.733] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[26Apr2025 16:27:33.564] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.572] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.592] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.601] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.605] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.612] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.620] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.640] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.648] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.652] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.658] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.670] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.675] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.680] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.685] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.689] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:33.697] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:27:49.651] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6989, l='ServerLevel[NewWorld]', x=-185.83, y=95.00, z=-148.13, removed=DISCARDED]
+[26Apr2025 16:28:52.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Acquire Hardware]
+[26Apr2025 16:29:27.379] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-198, y=-16, z=-485} but found not block entity block Block{minecraft:water}[level=8] at location
+[26Apr2025 16:29:27.380] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-198, y=-16, z=-485}
+[26Apr2025 16:29:27.381] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-197, y=-16, z=-486} but found not block entity block Block{minecraft:water}[level=8] at location
+[26Apr2025 16:29:27.381] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-197, y=-16, z=-486}
+[26Apr2025 16:29:46.964] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[26Apr2025 16:29:46.965] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway

@@ -2,9 +2,7 @@
 	id: "0353a03d-9344-32df-a99e-c414295afec8"
 	type: "player"
 	player_name: "nino_alf"
-	ranks: {
-		0353a03d-9344-32df-a99e-c414295afec8: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "nino_alf"
 		"ftbteams:description": ""

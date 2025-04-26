@@ -3,9 +3,9 @@
 	type: "party"
 	owner: "dd0c9ee7-09db-3026-99f3-011946b01c57"
 	ranks: {
-		df766ae6-3208-3bf3-8926-4d9ae4061ea9: "invited"
+		df766ae6-3208-3bf3-8926-4d9ae4061ea9: "member"
 		dd0c9ee7-09db-3026-99f3-011946b01c57: "owner"
-		0353a03d-9344-32df-a99e-c414295afec8: "invited"
+		0353a03d-9344-32df-a99e-c414295afec8: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "party random"
@@ -18,6 +18,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1745684287638L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pancito_KawaiiG\"}]}" }
 		{ from: "dd0c9ee7-09db-3026-99f3-011946b01c57", date: 1745684303294L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"nino_alf\"}]}" }
 		{ from: "dd0c9ee7-09db-3026-99f3-011946b01c57", date: 1745684303294L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"galaxy65m\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745684470163L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"galaxy65m\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745684490836L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"nino_alf\"}]}" }
 	]
 	extra: { }
 }
