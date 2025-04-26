@@ -8873,3 +8873,347 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [26Apr2025 16:29:27.381] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-197, y=-16, z=-486}
 [26Apr2025 16:29:46.964] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [26Apr2025 16:29:46.965] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[26Apr2025 16:31:05.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Archeologist'/9111, l='ServerLevel[NewWorld]', x=-530.18, y=-65.00, z=-470.48] died, message: 'Archeologist was killed'
+[26Apr2025 16:31:50.527] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Apr2025 16:31:51.285] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/9542, l='ServerLevel[NewWorld]', x=-635.14, y=104.09, z=-631.57] as it would cause deadlock
+[26Apr2025 16:32:19.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf bled to death
+[26Apr2025 16:32:19.564] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:32:20.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m bled to death
+[26Apr2025 16:32:21.184] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:32:55.662] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6989, l='ServerLevel[NewWorld]', x=-185.83, y=95.00, z=-148.13, removed=DISCARDED]
+[26Apr2025 16:33:10.323] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[26Apr2025 16:33:10.549] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[26Apr2025 16:33:15.334] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.348] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.377] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.388] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.395] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.403] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.410] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.428] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.437] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.442] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.446] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.458] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.462] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.465] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.471] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.475] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:15.484] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:33:28.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-645, y=5, z=-172} but found not block entity block Block{minecraft:water}[level=8] at location
+[26Apr2025 16:33:28.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-645, y=5, z=-172}
+[26Apr2025 16:33:32.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -416.500000, 113.500000, -453.500000]
+[26Apr2025 16:33:33.972] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[26Apr2025 16:33:33.972] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[26Apr2025 16:33:39.396] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Apr2025 16:33:44.472] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10928, l='ServerLevel[NewWorld]', x=-635.14, y=104.09, z=-631.57] as it would cause deadlock
+[26Apr2025 16:33:59.719] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[26Apr2025 16:34:19.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vagabond'/11366, l='ServerLevel[NewWorld]', x=-710.50, y=-65.00, z=111.50] died, message: 'Vagabond was killed'
+[26Apr2025 16:34:19.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vagabond'/11366, l='ServerLevel[NewWorld]', x=-710.50, y=-65.00, z=111.50] died: Vagabond was killed
+[26Apr2025 16:35:01.172] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=-52, z=-25}
+[26Apr2025 16:35:01.173] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-159, y=-52, z=-25}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-792, y=-29, z=147}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-791, y=-29, z=147}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-791, y=-29, z=146}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-792, y=-28, z=146}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-792, y=-29, z=147}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-791, y=-29, z=147}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-791, y=-29, z=146}
+[26Apr2025 16:35:01.659] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-792, y=-28, z=146}
+[26Apr2025 16:35:22.122] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:35:22.123] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[26Apr2025 16:35:22.123] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 16:35:22.123] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 16:35:22.123] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:35:22.123] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:35:22.123] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:35:22.124] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:35:22.124] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:35:34.075] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12239, l='ServerLevel[NewWorld]', x=-744.50, y=-53.00, z=242.50] as it would cause deadlock
+[26Apr2025 16:35:34.089] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12241, l='ServerLevel[NewWorld]', x=-736.50, y=-53.00, z=242.50] as it would cause deadlock
+[26Apr2025 16:35:54.661] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12407, l='ServerLevel[NewWorld]', x=-823.50, y=-53.00, z=201.50] as it would cause deadlock
+[26Apr2025 16:35:54.836] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[26Apr2025 16:35:54.836] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[26Apr2025 16:35:54.906] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[26Apr2025 16:35:54.906] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[26Apr2025 16:36:40.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Acquire Hardware]
+[26Apr2025 16:37:01.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Barrel Booty]
+[26Apr2025 16:37:04.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement ['X' Marks the Spot]
+[26Apr2025 16:37:09.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Barrel Booty]
+[26Apr2025 16:37:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Dungeon Now Loading]
+[26Apr2025 16:40:10.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 16:40:11.209] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:41:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Alex's Mobs]
+[26Apr2025 16:41:21.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 16:41:21.898] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:41:32.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 16:41:32.945] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:41:56.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 16:41:56.757] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:42:14.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 16:42:14.903] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:43:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Dark Vortex
+[26Apr2025 16:43:22.249] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:43:32.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf bled to death
+[26Apr2025 16:43:33.130] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:43:35.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Dread Hound
+[26Apr2025 16:43:36.303] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:43:42.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=99, z=-15}
+[26Apr2025 16:43:47.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=97, z=-15}
+[26Apr2025 16:43:59.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=96, z=-16}
+[26Apr2025 16:44:03.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=98, z=-18}
+[26Apr2025 16:44:04.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=98, z=-18}
+[26Apr2025 16:44:05.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=97, z=-16}
+[26Apr2025 16:44:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Dark Vortex
+[26Apr2025 16:44:06.800] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:44:43.336] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6989, l='ServerLevel[NewWorld]', x=-185.83, y=95.00, z=-148.13, removed=DISCARDED]
+[26Apr2025 16:44:52.465] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.474] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.494] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.503] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.507] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.515] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.522] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.542] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.549] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.553] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.557] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.569] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.574] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.579] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.584] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.589] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:44:52.598] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:45:15.494] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6989, l='ServerLevel[NewWorld]', x=-185.83, y=95.00, z=-148.13, removed=DISCARDED]
+[26Apr2025 16:45:38.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Spider
+[26Apr2025 16:45:39.192] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 16:45:43.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -429.500000, 115.500000, -480.500000]
+[26Apr2025 16:45:49.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=113, z=-477} BlockPos{x=-427, y=113, z=-476}
+[26Apr2025 16:45:53.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Drowned
+[26Apr2025 16:45:54.240] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:46:33.296] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6989, l='ServerLevel[NewWorld]', x=-185.83, y=95.00, z=-148.13, removed=DISCARDED]
+[26Apr2025 16:48:03.768] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:48:03.768] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[26Apr2025 16:48:03.768] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 16:48:03.769] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 16:48:03.769] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:48:03.769] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:48:03.769] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:48:03.769] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:48:03.769] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:49:19.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement ['X' Marks the Spot]
+[26Apr2025 16:49:46.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Acquire Hardware]
+[26Apr2025 16:49:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was blown up by Angry Creeper
+[26Apr2025 16:49:58.333] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:50:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Corpse Fly
+[26Apr2025 16:50:32.046] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 16:50:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Isn't It Iron Pick]
+[26Apr2025 16:51:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Bloodthirsty]
+[26Apr2025 16:51:59.820] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-385, y=-30, z=175}
+[26Apr2025 16:52:01.908] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.916] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.937] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.947] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.952] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.959] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.967] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.986] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.994] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:01.999] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:02.003] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:02.015] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:02.019] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:02.024] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:02.028] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:02.033] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:02.041] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 16:52:09.140] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26Apr2025 16:52:32.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Crops of the Wild]
+[26Apr2025 16:53:53.793] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-690, y=-27, z=254}
+[26Apr2025 16:53:53.793] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-690, y=-27, z=254}
+[26Apr2025 16:53:53.794] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-690, y=-27, z=254}
+[26Apr2025 16:54:28.387] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[26Apr2025 16:55:13.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Bypassing the Expiration Date]
+[26Apr2025 16:56:19.577] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[26Apr2025 16:56:19.577] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[26Apr2025 16:56:19.676] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[26Apr2025 16:56:19.677] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[26Apr2025 16:56:19.904] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/21387, l='ServerLevel[NewWorld]', x=-823.50, y=-53.00, z=201.50] as it would cause deadlock
+[26Apr2025 16:56:35.899] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[26Apr2025 16:56:42.409] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[26Apr2025 16:56:42.414] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 16:56:42.414] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 16:56:42.415] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 16:56:42.415] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:56:42.415] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 16:56:42.415] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 16:56:42.416] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 16:56:42.416] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:56:42.418] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 16:56:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Let's Get To Work]
+[26Apr2025 16:57:13.455] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:57:13.456] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:57:13.456] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[26Apr2025 16:57:13.456] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[26Apr2025 16:58:17.708] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22619, l='ServerLevel[NewWorld]', x=-823.50, y=-28.00, z=-796.50] as it would cause deadlock
+[26Apr2025 16:58:21.484] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22660, l='ServerLevel[NewWorld]', x=-842.50, y=-28.00, z=-704.50] as it would cause deadlock
+[26Apr2025 16:58:21.485] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22662, l='ServerLevel[NewWorld]', x=-842.50, y=-28.00, z=-712.50] as it would cause deadlock
+[26Apr2025 16:58:21.495] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22664, l='ServerLevel[NewWorld]', x=-847.50, y=-9.00, z=-705.50] as it would cause deadlock
+[26Apr2025 16:58:22.277] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=894}
+[26Apr2025 16:58:22.278] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=896}
+[26Apr2025 16:58:22.278] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=896}
+[26Apr2025 16:58:22.278] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=898}
+[26Apr2025 16:58:22.278] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=898}
+[26Apr2025 16:58:22.278] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-58, z=894}
+[26Apr2025 16:58:22.279] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-58, z=894}
+[26Apr2025 16:58:22.279] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=898}
+[26Apr2025 16:58:22.279] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=896}
+[26Apr2025 16:58:22.279] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=898}
+[26Apr2025 16:58:46.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Light as a Rabbit]
+[26Apr2025 16:58:52.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was shot by Skeleton
+[26Apr2025 16:58:53.321] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 16:59:01.714] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:59:01.714] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:59:01.715] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[26Apr2025 16:59:01.715] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[26Apr2025 16:59:12.815] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/23444, l='ServerLevel[NewWorld]', x=-860.50, y=-53.00, z=147.50] as it would cause deadlock
+[26Apr2025 16:59:35.270] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/23791, l='ServerLevel[NewWorld]', x=-877.50, y=-3.00, z=-709.50] as it would cause deadlock
+[26Apr2025 16:59:35.412] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23793, l='ServerLevel[NewWorld]', x=-875.50, y=-28.00, z=-737.50] as it would cause deadlock
+[26Apr2025 16:59:35.413] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23795, l='ServerLevel[NewWorld]', x=-867.50, y=-28.00, z=-737.50] as it would cause deadlock
+[26Apr2025 16:59:36.442] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-872, y=-32, z=-781}
+[26Apr2025 16:59:36.442] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-872, y=-32, z=-781}
+[26Apr2025 16:59:38.068] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23820, l='ServerLevel[NewWorld]', x=-890.50, y=-3.00, z=-702.50] as it would cause deadlock
+[26Apr2025 16:59:38.091] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-884, y=-54, z=-720}
+[26Apr2025 16:59:38.092] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-884, y=-54, z=-720}
+[26Apr2025 16:59:44.009] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23914, l='ServerLevel[NewWorld]', x=-909.50, y=-28.00, z=-708.50] as it would cause deadlock
+[26Apr2025 16:59:50.309] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-873, y=-4, z=-810}
+[26Apr2025 16:59:50.309] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-873, y=-3, z=-809}
+[26Apr2025 16:59:50.309] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-873, y=-4, z=-810}
+[26Apr2025 16:59:50.309] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-873, y=-3, z=-809}
+[26Apr2025 16:59:50.627] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[26Apr2025 16:59:50.627] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:59:50.627] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 16:59:58.636] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/24249, l='ServerLevel[NewWorld]', x=-934.50, y=-53.00, z=-763.50] as it would cause deadlock
+[26Apr2025 16:59:59.237] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/24279, l='ServerLevel[NewWorld]', x=-934.50, y=-53.00, z=-771.50] as it would cause deadlock
+[26Apr2025 17:00:01.864] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1488, y=82, z=747}
+[26Apr2025 17:00:08.722] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/24445, l='ServerLevel[NewWorld]', x=-887.50, y=-3.00, z=-861.50] as it would cause deadlock
+[26Apr2025 17:00:08.722] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/24447, l='ServerLevel[NewWorld]', x=-895.50, y=-3.00, z=-861.50] as it would cause deadlock
+[26Apr2025 17:00:09.188] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-903, y=-45, z=-851}
+[26Apr2025 17:00:09.188] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-903, y=-45, z=-851}
+[26Apr2025 17:00:13.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[26Apr2025 17:00:16.643] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/25247, l='ServerLevel[NewWorld]', x=-891.50, y=-28.00, z=-870.50] as it would cause deadlock
+[26Apr2025 17:00:17.115] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/25251, l='ServerLevel[NewWorld]', x=-899.50, y=-28.00, z=-870.50] as it would cause deadlock
+[26Apr2025 17:00:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 17:00:19.220] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:00:23.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -582.500000, 105.500000, -600.500000]
+[26Apr2025 17:00:42.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/20093, l='ServerLevel[NewWorld]', x=-747.56, y=84.00, z=125.83] died, message: 'Fletcher was slain by Zombie'
+[26Apr2025 17:00:47.319] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-985, y=-4, z=-795}
+[26Apr2025 17:00:47.319] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-985, y=-4, z=-795}
+[26Apr2025 17:00:47.479] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/25914, l='ServerLevel[NewWorld]', x=-990.50, y=-3.00, z=-843.50] as it would cause deadlock
+[26Apr2025 17:00:47.523] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/25916, l='ServerLevel[NewWorld]', x=-990.50, y=-3.00, z=-851.50] as it would cause deadlock
+[26Apr2025 17:02:13.944] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23368, l='ServerLevel[NewWorld]', x=-817.59, y=93.00, z=26.11] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 17:02:24.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23234, l='ServerLevel[NewWorld]', x=-826.41, y=92.00, z=20.40] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 17:02:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Disme A Dozen]
+[26Apr2025 17:02:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[26Apr2025 17:02:44.494] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:02:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 17:02:52.629] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:03:09.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23397, l='ServerLevel[NewWorld]', x=-832.30, y=93.00, z=24.07] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 17:03:35.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23462, l='ServerLevel[NewWorld]', x=-802.23, y=97.06, z=35.32] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 17:03:46.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23230, l='ServerLevel[NewWorld]', x=-792.95, y=97.00, z=35.20] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 17:03:47.262] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 17:03:47.263] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 17:03:47.263] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 17:03:47.263] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 17:03:47.263] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:03:47.263] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:03:53.000] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=151}
+[26Apr2025 17:03:53.000] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=149}
+[26Apr2025 17:03:53.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23525, l='ServerLevel[NewWorld]', x=-856.28, y=90.06, z=54.70] died, message: 'Unemployed was slain by Fallen Chaos Knight'
+[26Apr2025 17:03:56.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/28195, l='ServerLevel[NewWorld]', x=522.50, y=-65.00, z=-334.50] died, message: 'Butcher was killed'
+[26Apr2025 17:03:58.109] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.119] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.146] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.158] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.164] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.175] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.185] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.212] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.224] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.231] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.239] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.259] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.266] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.272] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.279] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.284] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:58.295] [Worker-Main-11/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[26Apr2025 17:03:59.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23369, l='ServerLevel[NewWorld]', x=-802.97, y=92.95, z=22.59] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 17:04:00.253] [Worker-Main-6/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26Apr2025 17:04:02.796] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=437, y=-42, z=-400}
+[26Apr2025 17:04:02.797] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=437, y=-42, z=-400}
+[26Apr2025 17:04:02.797] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=437, y=-42, z=-400}
+[26Apr2025 17:04:03.457] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=398, y=25, z=-410}
+[26Apr2025 17:04:16.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23375, l='ServerLevel[NewWorld]', x=-804.74, y=98.00, z=49.90] died, message: 'Nitwit was slain by Zombie'
+[26Apr2025 17:04:20.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Mine? Mine? Mine?]
+[26Apr2025 17:04:21.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Sheep
+[26Apr2025 17:04:21.705] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 17:04:33.794] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1488, y=82, z=747}
+[26Apr2025 17:04:50.759] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[26Apr2025 17:04:50.759] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[26Apr2025 17:04:50.759] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[26Apr2025 17:04:50.760] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[26Apr2025 17:04:50.760] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[26Apr2025 17:04:50.761] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[26Apr2025 17:04:57.170] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[26Apr2025 17:04:58.101] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26Apr2025 17:05:03.114] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[26Apr2025 17:05:03.114] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[26Apr2025 17:05:03.114] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[26Apr2025 17:05:03.114] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[26Apr2025 17:05:15.568] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Apr2025 17:05:15.569] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Apr2025 17:06:08.770] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[26Apr2025 17:06:08.770] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 17:06:08.770] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 17:06:09.222] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 17:06:09.222] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[26Apr2025 17:06:09.222] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 4 cooked_mutton
+[26Apr2025 17:06:09.222] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 3 torch
+[26Apr2025 17:06:09.222] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 7
+[26Apr2025 17:06:09.875] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 17:06:09.876] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[26Apr2025 17:06:09.876] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 4 cooked_mutton
+[26Apr2025 17:06:09.876] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 3 torch
+[26Apr2025 17:06:09.876] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 7
+[26Apr2025 17:06:09.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
+[26Apr2025 17:06:10.513] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-702, y=-41, z=319}
+[26Apr2025 17:06:10.513] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-702, y=-41, z=319}
+[26Apr2025 17:06:10.513] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-702, y=-41, z=319}
+[26Apr2025 17:06:10.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf bled to death
+[26Apr2025 17:06:10.904] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:06:45.181] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28201, l='ServerLevel[NewWorld]', x=539.29, y=101.00, z=-352.79] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 17:07:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Take Aim]
+[26Apr2025 17:08:21.552] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Apr2025 17:08:21.553] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Apr2025 17:09:01.228] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-547, y=-5, z=-25}
+[26Apr2025 17:09:02.434] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 17:09:02.434] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[26Apr2025 17:09:02.434] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[26Apr2025 17:09:26.388] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[26Apr2025 17:09:26.388] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 17:09:26.388] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 17:09:26.388] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 17:09:26.389] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 17:09:26.389] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 17:09:26.389] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:09:26.389] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:09:26.389] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:09:54.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Made From Clouds...]
+[26Apr2025 17:10:04.364] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-913, y=-22, z=-165}
+[26Apr2025 17:10:04.365] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-913, y=-22, z=-164}
+[26Apr2025 17:10:04.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Made From Clouds...]
+[26Apr2025 17:10:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Stratling
+[26Apr2025 17:10:44.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Stratling
+[26Apr2025 17:10:44.545] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:10:44.689] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
