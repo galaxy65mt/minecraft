@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2025-04-26 16:31:14 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-26 17:03:52 +0000"
@@ -158,6 +170,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-04-26 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -191,9 +209,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-26 16:57:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -212,6 +242,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-26 17:23:58 +0000"
     },
     "done": true
   },
@@ -296,6 +332,12 @@
   "woodworks:recipes/decorations/birch_chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-26 16:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -419,6 +461,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-26 17:03:52 +0000"
@@ -464,6 +518,12 @@
   "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
     "criteria": {
       "has_template": "2025-04-26 16:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -647,6 +707,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-04-26 16:51:43 +0000"
@@ -656,6 +722,12 @@
   "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-26 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -692,6 +764,18 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_stool": {
     "criteria": {
       "has_white_wool": "2025-04-26 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-04-26 17:23:06 +0000"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/food/insect_sandwich": {
+    "criteria": {
+      "has_arthropod": "2025-04-26 17:25:00 +0000"
     },
     "done": true
   },
@@ -803,6 +887,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 16:36:40 +0000"
@@ -878,6 +968,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-04-26 16:28:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -1055,6 +1151,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-26 16:57:09 +0000"
@@ -1088,6 +1190,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_stool": {
     "criteria": {
       "has_white_wool": "2025-04-26 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -1181,6 +1289,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-04-26 16:09:40 +0000"
@@ -1238,6 +1352,12 @@
   "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-26 16:36:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -1499,6 +1619,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-26 16:49:32 +0000"
@@ -1522,6 +1648,12 @@
       "custom_test_name": "2025-04-26 16:09:40 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "fletchingtable": "2025-04-26 17:22:14 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
@@ -1574,6 +1706,18 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-04-26 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_support": {
+    "criteria": {
+      "has_plank": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -1715,6 +1859,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-04-26 16:16:14 +0000"
@@ -1730,6 +1880,12 @@
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2025-04-26 16:09:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -1778,6 +1934,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_stool": {
     "criteria": {
       "has_white_wool": "2025-04-26 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -1856,6 +2018,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-04-26 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -2207,6 +2375,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/insect_wrap": {
+    "criteria": {
+      "has_arthropod": "2025-04-26 17:25:00 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
     "criteria": {
       "has_hay_block": "2025-04-26 17:10:14 +0000"
@@ -2307,6 +2481,12 @@
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_white_wool": "2025-04-26 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -2469,6 +2649,12 @@
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-26 16:36:40 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -2639,6 +2825,18 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_jungle_stool": {
     "criteria": {
       "has_magenta_wool": "2025-04-26 16:52:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -2870,6 +3068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-04-26 17:12:07 +0000"
@@ -2897,6 +3101,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-04-26 16:28:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -3107,6 +3317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/cherry_trapdoor_from_cherry_logs_sawing": {
     "criteria": {
       "has_cherry_logs": "2025-04-26 16:16:03 +0000"
@@ -3176,6 +3392,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-26 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -3251,6 +3473,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2025-04-26 16:11:38 +0000"
@@ -3275,6 +3503,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-26 17:23:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/acacia_button_from_acacia_logs_sawing": {
     "criteria": {
       "has_acacia_logs": "2025-04-26 17:03:52 +0000"
@@ -3290,6 +3530,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-26 16:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -3320,6 +3566,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
     "criteria": {
       "has_white_wool": "2025-04-26 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -3440,6 +3692,12 @@
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-04-26 16:13:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -3700,6 +3958,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/bamboo_ladder_from_bamboo": {
     "criteria": {
       "has_bamboo": "2025-04-26 16:10:49 +0000"
@@ -3736,9 +4000,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-26 16:13:07 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-04-26 17:23:06 +0000"
     },
     "done": true
   },
@@ -3757,6 +4033,12 @@
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-04-26 16:56:28 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cooked_arthropod": {
+    "criteria": {
+      "has_arthropod": "2025-04-26 17:25:00 +0000"
     },
     "done": true
   },
@@ -3917,6 +4199,12 @@
     },
     "done": false
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-26 16:35:27 +0000"
@@ -4034,6 +4322,12 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "fletchingtable": "2025-04-26 17:22:14 +0000"
     },
     "done": true
   },
@@ -4163,6 +4457,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2025-04-26 16:09:40 +0000"
@@ -4271,6 +4571,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/birch_desk_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-04-26 16:09:40 +0000"
@@ -4325,6 +4631,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/birch_post": {
     "criteria": {
       "has_item": "2025-04-26 16:31:14 +0000"
@@ -4358,6 +4670,12 @@
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2025-04-26 16:12:48 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_item": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -4547,6 +4865,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-04-26 16:09:40 +0000"
@@ -4574,6 +4898,18 @@
   "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
     "criteria": {
       "has_hay_block": "2025-04-26 17:10:14 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/seasoned_arthropods": {
+    "criteria": {
+      "has_arthropod": "2025-04-26 17:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-26 17:23:06 +0000"
     },
     "done": true
   },
@@ -4631,6 +4967,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-26 16:52:32 +0000"
@@ -4682,6 +5024,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-04-26 16:13:07 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/insect_stew": {
+    "criteria": {
+      "has_arthropod": "2025-04-26 17:25:00 +0000"
     },
     "done": true
   },
@@ -4742,6 +5090,12 @@
   "storagedrawers:recipes/storagedrawers/spruce_trim": {
     "criteria": {
       "has_planks": "2025-04-26 16:09:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -5064,6 +5418,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2025-04-26 16:52:35 +0000"
@@ -5091,6 +5451,18 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-26 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-04-26 17:29:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },
@@ -5164,6 +5536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-26 17:22:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/acacia_boards_from_acacia_logs_sawing": {
     "criteria": {
       "has_acacia_logs": "2025-04-26 17:03:52 +0000"
@@ -5215,6 +5593,12 @@
   "ecologics:recipes/ecologics/walnut_fence": {
     "criteria": {
       "has_planks": "2025-04-26 16:13:27 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-04-26 17:22:52 +0000"
     },
     "done": true
   },

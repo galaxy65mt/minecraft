@@ -9262,3 +9262,48 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [26Apr2025 17:20:32.039] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
 [26Apr2025 17:20:37.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m fell from a high place
 [26Apr2025 17:20:38.025] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:21:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[26Apr2025 17:21:34.291] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:21:48.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Spider
+[26Apr2025 17:21:48.989] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:22:14.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Let's Get To Work]
+[26Apr2025 17:22:16.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/31170, l='ServerLevel[NewWorld]', x=-854.24, y=92.00, z=64.15] died, message: 'Cleric was slain by Zombie'
+[26Apr2025 17:22:30.115] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[26Apr2025 17:22:30.116] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[26Apr2025 17:22:30.116] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[26Apr2025 17:22:30.116] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[26Apr2025 17:22:30.116] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-54, z=1050}
+[26Apr2025 17:22:30.252] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[26Apr2025 17:22:33.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/37667, l='ServerLevel[NewWorld]', x=513.50, y=-65.00, z=-831.50] died, message: 'Farmer was killed'
+[26Apr2025 17:22:38.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Skeleton Thrasher
+[26Apr2025 17:22:39.326] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:22:39.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Nightmare Stalker
+[26Apr2025 17:22:40.152] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:22:41.902] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1048}
+[26Apr2025 17:22:41.903] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1049}
+[26Apr2025 17:22:41.903] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1051}
+[26Apr2025 17:22:41.914] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-57, z=1073}
+[26Apr2025 17:22:41.914] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[26Apr2025 17:22:41.914] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-57, z=1073}
+[26Apr2025 17:22:41.914] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-124, y=-57, z=1073}
+[26Apr2025 17:22:41.914] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[26Apr2025 17:23:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Spider
+[26Apr2025 17:23:06.218] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:23:06.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [What a Deal!]
+[26Apr2025 17:23:06.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [First Trade]
+[26Apr2025 17:23:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Ol' Betsy]
+[26Apr2025 17:23:58.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Take Aim]
+[26Apr2025 17:25:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[26Apr2025 17:25:58.059] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:26:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[26Apr2025 17:26:10.741] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:26:57.460] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[26Apr2025 17:26:57.460] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[26Apr2025 17:26:57.460] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[26Apr2025 17:26:57.460] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[26Apr2025 17:28:44.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Zombie
+[26Apr2025 17:28:44.340] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[26Apr2025 17:29:55.528] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[26Apr2025 17:30:06.202] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Apr2025 17:30:06.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/40591, l='ServerLevel[NewWorld]', x=772.49, y=-65.00, z=60.76] died, message: 'Farmer was killed'
+[26Apr2025 17:30:23.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/40588, l='ServerLevel[NewWorld]', x=868.37, y=65.56, z=51.72] died, message: 'Nitwit suffocated in a wall'
