@@ -9217,3 +9217,48 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [26Apr2025 17:10:44.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Stratling
 [26Apr2025 17:10:44.545] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [26Apr2025 17:10:44.689] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:11:07.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Hovering Hurricane
+[26Apr2025 17:11:07.979] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:11:14.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement ['X' Marks the Spot]
+[26Apr2025 17:11:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Hovering Hurricane
+[26Apr2025 17:11:19.060] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:11:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Hovering Hurricane
+[26Apr2025 17:11:48.493] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:12:30.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Hovering Hurricane
+[26Apr2025 17:12:30.650] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:12:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Culonimbus
+[26Apr2025 17:12:51.579] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:13:29.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Culonimbus
+[26Apr2025 17:13:29.936] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:14:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Disme A Dozen]
+[26Apr2025 17:15:07.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Let's Get To Work]
+[26Apr2025 17:19:04.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/31490, l='ServerLevel[NewWorld]', x=-860.86, y=91.00, z=54.40] died, message: 'Nitwit was slain by Spider'
+[26Apr2025 17:19:41.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Restless Spirit
+[26Apr2025 17:19:45.793] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[26Apr2025 17:19:56.401] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[26Apr2025 17:19:56.401] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 17:19:56.401] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 17:19:56.401] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 17:19:56.402] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 17:19:56.402] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 17:19:56.402] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:19:56.402] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:19:56.402] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:20:08.121] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/31189, l='ServerLevel[NewWorld]', x=-828.30, y=93.00, z=27.51] died, message: 'Shepherd was slain by Zombie'
+[26Apr2025 17:20:08.892] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Apr2025 17:20:21.940] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[26Apr2025 17:20:21.940] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[26Apr2025 17:20:21.941] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[26Apr2025 17:20:21.941] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[26Apr2025 17:20:21.941] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:20:21.941] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:20:21.941] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[26Apr2025 17:20:22.006] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[26Apr2025 17:20:22.006] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[26Apr2025 17:20:22.006] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[26Apr2025 17:20:22.006] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[26Apr2025 17:20:22.006] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[26Apr2025 17:20:31.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Drowned
+[26Apr2025 17:20:32.039] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[26Apr2025 17:20:37.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m fell from a high place
+[26Apr2025 17:20:38.025] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.

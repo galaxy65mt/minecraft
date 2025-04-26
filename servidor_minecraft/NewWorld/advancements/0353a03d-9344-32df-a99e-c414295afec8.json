@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2025-04-26 16:37:34 +0000"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-26 16:50:23 +0000"
@@ -635,6 +647,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-26 17:05:32 +0000"
@@ -851,6 +869,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-26 16:49:46 +0000"
@@ -905,6 +929,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_barrel": "2025-04-26 17:15:07 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/anchor": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 16:49:46 +0000"
@@ -956,6 +986,12 @@
   "undergarden:recipes/combat/slingshot": {
     "criteria": {
       "has_stick": "2025-04-26 16:37:34 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
     },
     "done": true
   },
@@ -1066,6 +1102,12 @@
       "custom_test_name": "2025-04-26 16:11:28 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "barrel": "2025-04-26 17:15:07 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
@@ -1475,6 +1517,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-04-26 16:11:28 +0000"
@@ -1632,6 +1680,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-26 16:49:46 +0000"
@@ -1746,6 +1800,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-26 16:24:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
     },
     "done": true
   },
@@ -1932,6 +1992,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-04-26 16:37:29 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
     },
     "done": true
   },
@@ -2221,9 +2287,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
     },
     "done": true
   },
@@ -2581,6 +2659,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/warped_ladder": {
     "criteria": {
       "has_stick": "2025-04-26 16:37:34 +0000"
@@ -2666,6 +2750,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/bar_panel": {
     "criteria": {
       "has_ingot": "2025-04-26 16:49:46 +0000"
@@ -2687,6 +2777,18 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "barrel": "2025-04-26 17:15:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
     },
     "done": true
   },
@@ -2741,6 +2843,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-26 17:00:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
     },
     "done": true
   },
@@ -2978,9 +3086,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-26 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
     },
     "done": true
   },
@@ -3026,6 +3146,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder": {
     "criteria": {
       "has_stick": "2025-04-26 16:37:34 +0000"
@@ -3041,6 +3167,12 @@
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-04-26 16:19:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-04-26 17:15:07 +0000"
     },
     "done": true
   },
@@ -3206,6 +3338,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-04-26 16:11:28 +0000",
@@ -3222,6 +3360,12 @@
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2025-04-26 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-04-26 17:15:07 +0000"
     },
     "done": true
   },
@@ -3279,6 +3423,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-04-26 16:11:28 +0000"
@@ -3312,6 +3462,12 @@
   "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-26 16:27:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
     },
     "done": true
   },
@@ -3384,6 +3540,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-26 16:17:50 +0000",
+      "minecraft:taiga": "2025-04-26 17:18:12 +0000",
       "minecraft:cherry_grove": "2025-04-26 16:14:12 +0000",
       "minecraft:sunflower_plains": "2025-04-26 16:26:21 +0000",
       "minecraft:birch_forest": "2025-04-26 16:30:32 +0000",
@@ -3405,6 +3562,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-04-26 16:37:29 +0000"
@@ -3417,9 +3580,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-26 16:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 17:15:26 +0000"
     },
     "done": true
   },
@@ -3469,6 +3644,18 @@
     "criteria": {
       "has_fishing_rod": "2025-04-26 16:11:28 +0000",
       "has_fillet_knife": "2025-04-26 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-04-26 17:11:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-04-26 17:15:07 +0000"
     },
     "done": true
   },
