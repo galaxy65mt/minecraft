@@ -2299,6 +2299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-26 17:43:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
     "criteria": {
       "has_hay_block": "2025-04-26 17:06:26 +0000"

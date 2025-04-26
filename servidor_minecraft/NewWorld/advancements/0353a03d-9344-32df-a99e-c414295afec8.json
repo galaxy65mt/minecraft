@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-26 17:41:31 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
     "criteria": {
       "has_hay_block": "2025-04-26 17:15:26 +0000"
@@ -2561,6 +2567,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-04-26 16:27:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 17:40:52 +0000"
     },
     "done": true
   },
