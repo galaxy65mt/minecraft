@@ -3811,6 +3811,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-26 18:13:29 +0000",
       "cooked_beef": "2025-04-26 16:38:56 +0000",
+      "baked_potato": "2025-04-27 18:06:14 +0000",
       "cookie": "2025-04-26 17:03:20 +0000",
       "cooked_chicken": "2025-04-26 17:54:02 +0000",
       "chicken": "2025-04-26 19:36:14 +0000",
@@ -10246,6 +10247,12 @@
     },
     "done": true
   },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-04-27 18:03:47 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_mystic_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10279,6 +10286,12 @@
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_table": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-04-27 18:05:32 +0000"
     },
     "done": true
   },
@@ -10426,6 +10439,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-27 18:03:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-04-27 17:22:05 +0000"
@@ -10471,6 +10490,12 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_classic_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-27 18:06:11 +0000"
     },
     "done": true
   },
@@ -10765,6 +10790,12 @@
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_chair": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-27 18:06:11 +0000"
     },
     "done": true
   },

@@ -8707,3 +8707,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 18:02:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Zombie
 [27Apr2025 18:02:45.205] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
 [27Apr2025 18:03:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Amateur Archaeologist]
+[27Apr2025 18:07:59.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[27Apr2025 18:07:59.277] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:12:00.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: galaxy65m lost connection: Disconnected
+[27Apr2025 18:12:00.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m left the game
+[27Apr2025 18:12:00.876] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[27Apr2025 18:12:00.876] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client galaxy65m
+[27Apr2025 18:12:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Dire Hound Leader
+[27Apr2025 18:12:04.156] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:12:13.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Ice Bucket Challenge]
+[27Apr2025 18:13:46.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[27Apr2025 18:13:47.191] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
