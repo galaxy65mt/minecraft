@@ -8718,3 +8718,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 18:12:13.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Ice Bucket Challenge]
 [27Apr2025 18:13:46.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
 [27Apr2025 18:13:47.191] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:29:12.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf hit the ground too hard
+[27Apr2025 18:29:12.920] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:29:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Labyrinth]
+[27Apr2025 18:30:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has reached the goal [When the Stew is Sus]
+[27Apr2025 18:30:49.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Dark Vortex
+[27Apr2025 18:30:49.605] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:32:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie Bruiser
+[27Apr2025 18:32:26.230] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:33:35.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf bled to death
+[27Apr2025 18:33:35.630] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:34:28.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Decrepit Skeleton
+[27Apr2025 18:34:28.905] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:35:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has reached the goal [Exorcism]
+[27Apr2025 18:35:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf bled to death
+[27Apr2025 18:35:22.778] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.

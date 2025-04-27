@@ -3814,6 +3814,7 @@
       "cooked_beef": "2025-04-26 16:38:56 +0000",
       "baked_potato": "2025-04-27 18:06:14 +0000",
       "cookie": "2025-04-26 17:03:20 +0000",
+      "suspicious_stew": "2025-04-27 18:30:17 +0000",
       "cooked_chicken": "2025-04-26 17:54:02 +0000",
       "chicken": "2025-04-26 19:36:14 +0000",
       "cooked_mutton": "2025-04-27 17:22:08 +0000",
@@ -10182,6 +10183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_cottage_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10245,6 +10252,12 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_bamboo_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-04-27 18:29:58 +0000"
     },
     "done": true
   },
@@ -10380,9 +10393,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/palegardenbackport/sign_post_pale_oak": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-04-27 18:30:17 +0000"
     },
     "done": true
   },
@@ -10419,6 +10444,18 @@
   "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_chest": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
     },
     "done": true
   },
@@ -10464,6 +10501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_desk": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10485,6 +10528,12 @@
   "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-27 17:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
     },
     "done": true
   },
@@ -10551,6 +10600,12 @@
   "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_full_drawers_1": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
     },
     "done": true
   },
@@ -10626,6 +10681,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
   "palegardenbackport:recipes/building_blocks/pale_oak_fence": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
@@ -10680,6 +10741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/mangrove_planks_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
@@ -10701,6 +10768,18 @@
   "galosphere:recipes/food/salted_jerky": {
     "criteria": {
       "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
     },
     "done": true
   },
@@ -10734,6 +10813,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_suspicious_stew": "2025-04-27 18:30:12 +0000"
+    },
+    "done": true
+  },
   "palegardenbackport:recipes/transportation/oak_boat_from_pale_oak_planks": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
@@ -10743,6 +10828,12 @@
   "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
     },
     "done": true
   },
@@ -10800,6 +10891,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/food/nettle_soup": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 17:46:35 +0000"
@@ -10839,6 +10936,12 @@
   "everycomp:recipes/building_blocks/c/palegardenbackport/pale_oak_window_pane": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
     },
     "done": true
   },
