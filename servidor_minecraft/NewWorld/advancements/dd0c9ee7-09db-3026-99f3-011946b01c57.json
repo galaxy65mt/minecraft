@@ -3814,6 +3814,7 @@
       "cookie": "2025-04-26 17:03:20 +0000",
       "cooked_chicken": "2025-04-26 17:54:02 +0000",
       "chicken": "2025-04-26 19:36:14 +0000",
+      "cooked_mutton": "2025-04-27 17:22:08 +0000",
       "apple": "2025-04-26 19:11:58 +0000",
       "bread": "2025-04-26 17:13:57 +0000",
       "rotten_flesh": "2025-04-26 19:41:56 +0000",
@@ -10190,6 +10191,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-27 17:22:05 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_barrel_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10256,6 +10263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-04-27 17:29:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/palegardenbackport/sign_post_pale_oak": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10295,6 +10308,12 @@
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_stool": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-27 17:22:05 +0000"
     },
     "done": true
   },
@@ -10424,6 +10443,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-27 17:22:05 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_boards": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10499,6 +10524,12 @@
   "everycomp:recipes/building_blocks/abnww/palegardenbackport/pale_oak_bookshelf": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-27 17:24:34 +0000"
     },
     "done": true
   },

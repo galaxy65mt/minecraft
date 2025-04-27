@@ -8654,3 +8654,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 17:24:05.638] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [27Apr2025 17:24:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
 [27Apr2025 17:24:07.503] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 17:27:00.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Baby Spider
+[27Apr2025 17:27:00.931] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 17:27:41.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Siamese Skeletons
+[27Apr2025 17:27:42.035] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 17:28:42.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Skeleton
+[27Apr2025 17:28:43.232] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 17:28:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[27Apr2025 17:28:54.482] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 17:29:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Skeleton
+[27Apr2025 17:29:29.507] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 17:33:09.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -116.500000, 45.500000, -147.500000]
+[27Apr2025 17:33:11.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m tried to swim in lava
+[27Apr2025 17:33:12.304] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 17:33:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -140.500000, 97.500000, -162.500000]
+[27Apr2025 17:33:23.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -107.500000, 44.500000, -161.500000]
+[27Apr2025 17:33:28.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 17:33:36.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 17:34:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m fell from a high place
+[27Apr2025 17:34:05.474] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 17:34:11.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Hot Stuff]
+[27Apr2025 17:34:30.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 17:34:35.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 17:34:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf bled to death
+[27Apr2025 17:34:41.231] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.

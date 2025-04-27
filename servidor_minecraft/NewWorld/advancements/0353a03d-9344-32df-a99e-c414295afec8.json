@@ -3271,6 +3271,7 @@
     "criteria": {
       "cooked_mutton": "2025-04-26 21:23:53 +0000",
       "apple": "2025-04-26 17:00:58 +0000",
+      "spider_eye": "2025-04-27 17:30:13 +0000",
       "potato": "2025-04-26 16:54:17 +0000",
       "bread": "2025-04-26 16:59:08 +0000",
       "rotten_flesh": "2025-04-27 17:14:02 +0000",
@@ -6401,6 +6402,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-04-27 17:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-27 17:22:10 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
@@ -6527,6 +6540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-27 17:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
@@ -6578,6 +6597,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-27 17:22:10 +0000"
     },
     "done": true
   },
