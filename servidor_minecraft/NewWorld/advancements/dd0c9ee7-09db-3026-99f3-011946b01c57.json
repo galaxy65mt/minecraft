@@ -10144,6 +10144,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/mangrove_post": {
+    "criteria": {
+      "has_item": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "palegardenbackport:recipes/building_blocks/pale_oak_trapdoor": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
@@ -10159,6 +10165,18 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_tropical_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_sign_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10198,6 +10216,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_door_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-04-27 17:22:05 +0000"
@@ -10207,6 +10231,12 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_barrel_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/mangrove_palisade": {
+    "criteria": {
+      "has_log": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10234,6 +10264,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_seat": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10243,6 +10279,12 @@
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_table": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10270,6 +10312,18 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_pressure_plate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-27 17:49:29 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-27 17:39:51 +0000"
@@ -10279,6 +10333,24 @@
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-04-27 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10306,9 +10378,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_slab_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_chest": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_trapdoor_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_boards_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10336,9 +10438,27 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-27 17:49:29 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_ladder_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-27 17:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10363,6 +10483,18 @@
   "everycomp:recipes/redstone/abnww/palegardenbackport/trapped_pale_oak_chest": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_fence_gate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 17:48:21 +0000"
     },
     "done": true
   },
@@ -10450,6 +10582,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_stairs_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "palegardenbackport:recipes/building_blocks/pale_oak_fence": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
@@ -10468,6 +10606,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-04-27 17:22:05 +0000"
@@ -10483,6 +10627,24 @@
   "palegardenbackport:recipes/building_blocks/pale_oak_sign": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_fence_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_planks_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10510,6 +10672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 17:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gunpowder": {
     "criteria": {
       "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
@@ -10519,6 +10687,12 @@
   "palegardenbackport:recipes/transportation/oak_boat_from_pale_oak_planks": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10540,9 +10714,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_palisade": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -10564,6 +10750,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_chair": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10579,6 +10777,12 @@
   "everycomp:recipes/building_blocks/c/palegardenbackport/pale_oak_window_pane": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_mangrove_post": {
+    "criteria": {
+      "has_item": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },

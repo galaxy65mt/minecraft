@@ -6290,15 +6290,33 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/mangrove_post": {
+    "criteria": {
+      "has_item": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_warped_stool": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
     },
     "done": true
   },
+  "woodworks:recipes/decorations/mangrove_sign_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6320,9 +6338,21 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_door_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6350,6 +6380,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/mangrove_palisade": {
+    "criteria": {
+      "has_log": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_oak_stool": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
@@ -6359,6 +6395,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_stool": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6374,6 +6416,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
@@ -6386,15 +6434,39 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_pressure_plate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_stool": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6410,9 +6482,21 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-04-27 17:22:10 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
     },
     "done": true
   },
@@ -6446,15 +6530,69 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_slab_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_trapdoor_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_boards_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_ladder_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_cherry_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6467,6 +6605,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_fence_gate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6500,15 +6644,33 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_stairs_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_jungle_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_fence_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6530,9 +6692,27 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_planks_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
     },
     "done": true
   },
@@ -6560,9 +6740,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
     },
     "done": true
   },
@@ -6578,9 +6770,27 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
@@ -6590,9 +6800,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-27 17:47:48 +0000"
     },
     "done": true
   },
@@ -6605,6 +6833,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-27 17:22:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_mangrove_post": {
+    "criteria": {
+      "has_item": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },

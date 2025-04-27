@@ -8684,3 +8684,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 17:43:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
 [27Apr2025 17:43:09.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
 [27Apr2025 17:43:15.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 17:51:35.866] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[27Apr2025 17:51:40.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[27Apr2025 17:51:40.867] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 17:53:47.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Adventure Mode]
+[27Apr2025 17:53:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 17:53:55.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Adventure Mode]
+[27Apr2025 17:53:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
