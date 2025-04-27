@@ -10148,81 +10148,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "galosphere:recipes/food/salted_jerky": {
     "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
+      "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/gunpowder": {
     "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
+      "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "galosphere:recipes/misc/cured_membrane": {
     "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-27 19:24:48 +0000"
-    },
-    "done": false
-  },
-  "valhelsia_structures:recipes/building_blocks/mangrove_post": {
-    "criteria": {
-      "has_item": "2025-04-27 17:46:35 +0000"
+      "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
     },
     "done": true
   },
@@ -10244,57 +10184,9 @@
     },
     "done": true
   },
-  "woodworks:recipes/decorations/mangrove_sign_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
-    "criteria": {
-      "forge:dyes/brown": "2025-04-27 18:42:37 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-04-27 19:23:28 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_cottage_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-04-27 19:16:39 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
-    "criteria": {
-      "has_light_brown_bark_mushroom": "2025-04-27 18:42:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-04-27 18:45:54 +0000"
     },
     "done": true
   },
@@ -10316,39 +10208,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-04-27 19:16:24 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/stripped_birch_post": {
-    "criteria": {
-      "has_item": "2025-04-27 19:23:28 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/ls/palegardenbackport/pale_oak_shutter": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-27 17:34:11 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/mangrove_door_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-04-27 17:22:05 +0000"
     },
     "done": true
   },
@@ -10358,33 +10220,9 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/mangrove_palisade": {
-    "criteria": {
-      "has_log": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_bamboo_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
-    "criteria": {
-      "find_labyrinth": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/glass_bells": {
-    "criteria": {
-      "has_bottle": "2025-04-27 18:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-04-27 19:16:39 +0000"
     },
     "done": true
   },
@@ -10406,18 +10244,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-04-27 18:56:23 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_seat": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10430,27 +10256,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2025-04-27 18:05:32 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
   "palegardenbackport:recipes/building_blocks/pale_oak_stairs": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_obsidian": "2025-04-27 18:12:13 +0000"
     },
     "done": true
   },
@@ -10466,81 +10274,15 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2025-04-27 18:45:54 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-04-27 18:16:58 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_four_panel_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/redstone/mangrove_pressure_plate_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-04-27 17:49:29 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-04-27 17:39:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-04-27 17:29:59 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/palegardenbackport/sign_post_pale_oak": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:husbandry/sus_stew": {
-    "criteria": {
-      "stew": "2025-04-27 18:30:17 +0000"
     },
     "done": true
   },
@@ -10562,69 +10304,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/mangrove_slab_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_chest": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-04-27 18:30:17 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-04-27 18:59:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-04-27 19:21:13 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/mangrove_trapdoor_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/mangrove_boards_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-04-27 18:42:37 +0000"
     },
     "done": true
   },
@@ -10634,33 +10316,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_brown_dye": "2025-04-27 18:42:37 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_stool": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-04-27 18:03:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-04-27 17:22:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-04-27 18:30:17 +0000"
     },
     "done": true
   },
@@ -10670,51 +10328,9 @@
     },
     "done": true
   },
-  "miners_delight:recipes/cooking/glow_ink_pasta": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-04-27 17:49:29 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/mangrove_ladder_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-04-27 17:39:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-04-27 18:42:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-04-27 19:16:24 +0000"
     },
     "done": true
   },
@@ -10724,45 +10340,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-04-27 18:06:11 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-04-27 17:39:51 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2025-04-27 18:45:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/redstone/abnww/palegardenbackport/trapped_pale_oak_chest": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/dye_brown_bedroll": {
-    "criteria": {
-      "has_needed_dye": "2025-04-27 18:42:37 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/mangrove_fence_gate_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-27 17:48:21 +0000"
     },
     "done": true
   },
@@ -10784,18 +10364,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-27 19:23:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
   "palegardenbackport:recipes/building_blocks/pale_oak_pressure_plate": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
@@ -10811,18 +10379,6 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_paper_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-04-27 18:42:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 18:56:23 +0000"
     },
     "done": true
   },
@@ -10856,12 +10412,6 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_color": "2025-04-27 18:42:37 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/vs/palegardenbackport/stripped_pale_oak_post": {
     "criteria": {
       "has_log": "2025-04-27 17:15:33 +0000"
@@ -10880,27 +10430,9 @@
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/mangrove_stairs_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-04-27 18:30:17 +0000"
-    },
-    "done": true
-  },
   "palegardenbackport:recipes/building_blocks/pale_oak_fence": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-27 18:12:13 +0000"
     },
     "done": true
   },
@@ -10916,24 +10448,6 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2025-04-27 18:45:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-04-27 17:22:05 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_boards": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10946,51 +10460,9 @@
     },
     "done": true
   },
-  "woodworks:recipes/decorations/mangrove_fence_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/mangrove_planks_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_ranch_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/food/salted_jerky": {
-    "criteria": {
-      "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-04-27 18:30:17 +0000"
     },
     "done": true
   },
@@ -11000,93 +10472,15 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-04-27 18:23:43 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_barred_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-27 17:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-04-27 19:16:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gunpowder": {
-    "criteria": {
-      "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2025-04-27 19:23:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-04-27 19:11:52 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/food/golden_apple_stew": {
-    "criteria": {
-      "has_suspicious_stew": "2025-04-27 18:30:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 19:16:24 +0000"
-    },
-    "done": true
-  },
   "palegardenbackport:recipes/transportation/oak_boat_from_pale_oak_planks": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2025-04-27 18:42:37 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
-    "criteria": {
-      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
-    "criteria": {
-      "has_orange_bark_mushroom": "2025-04-27 18:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-04-27 19:16:24 +0000"
     },
     "done": true
   },
@@ -11108,21 +10502,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_swamp": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_palisade": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -11132,21 +10514,243 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_chair": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/palegardenbackport/pale_oak_window_pane": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_bark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-27 17:22:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-27 17:22:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-27 17:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-04-27 17:24:34 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/cured_membrane": {
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
-      "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
+      "has_torchflower": "2025-04-27 17:29:59 +0000"
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/food/nettle_soup": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_bowl": "2025-04-27 18:30:17 +0000"
+      "lava_bucket": "2025-04-27 17:34:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-27 17:39:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-27 17:39:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-27 17:39:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/mangrove_post": {
+    "criteria": {
+      "has_item": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_sign_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_door_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/mangrove_palisade": {
+    "criteria": {
+      "has_log": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_pressure_plate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_slab_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_trapdoor_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_boards_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_ladder_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_fence_gate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_stairs_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_fence_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_planks_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-27 17:46:35 +0000"
     },
     "done": true
   },
@@ -11162,9 +10766,57 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_chair": {
+  "valhelsia_structures:recipes/building_blocks/stripped_mangrove_post": {
     "criteria": {
-      "has_item": "2025-04-27 17:15:33 +0000"
+      "has_item": "2025-04-27 17:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 17:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 17:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-27 17:49:29 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-27 17:49:29 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-27 18:03:23 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-04-27 18:03:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-04-27 18:05:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-27 18:06:11 +0000"
     },
     "done": true
   },
@@ -11174,9 +10826,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_blossom_trapdoor": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_item": "2025-04-27 17:15:33 +0000"
+      "has_obsidian": "2025-04-27 18:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-27 18:12:13 +0000"
     },
     "done": true
   },
@@ -11186,9 +10844,69 @@
     },
     "done": true
   },
-  "everycomp:recipes/building_blocks/c/palegardenbackport/pale_oak_window_pane": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_item": "2025-04-27 17:15:33 +0000"
+      "has_gold_backpack": "2025-04-27 18:16:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-04-27 18:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-27 18:29:58 +0000"
     },
     "done": true
   },
@@ -11198,15 +10916,327 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/building_blocks/stripped_mangrove_post": {
+  "witherstormmod:recipes/food/golden_apple_stew": {
     "criteria": {
-      "has_item": "2025-04-27 17:46:35 +0000"
+      "has_suspicious_stew": "2025-04-27 18:30:12 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_bark_trapdoor": {
+  "supplementaries:husbandry/sus_stew": {
     "criteria": {
-      "has_item": "2025-04-27 17:15:33 +0000"
+      "stew": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/food/nettle_soup": {
+    "criteria": {
+      "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-04-27 18:42:10 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-04-27 18:42:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "forge:dyes/brown": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/dye_brown_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-27 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-04-27 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-04-27 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-04-27 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-04-27 18:56:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 18:56:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-04-27 18:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-27 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 19:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-27 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-27 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-04-27 19:21:13 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-04-27 19:23:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_birch_post": {
+    "criteria": {
+      "has_item": "2025-04-27 19:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-27 19:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 19:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-04-27 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-27 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-04-27 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-27 19:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-27 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-27 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-27 19:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-04-27 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-04-27 19:44:30 +0000"
     },
     "done": true
   },
