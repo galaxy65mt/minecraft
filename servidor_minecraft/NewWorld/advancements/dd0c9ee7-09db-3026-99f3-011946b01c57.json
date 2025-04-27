@@ -672,6 +672,7 @@
       "minecraft:ocean": "2025-04-26 17:37:34 +0000",
       "minecraft:frozen_peaks": "2025-04-26 16:17:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-26 16:32:59 +0000",
+      "minecraft:deep_dark": "2025-04-27 18:23:43 +0000",
       "minecraft:meadow": "2025-04-26 16:53:10 +0000",
       "minecraft:plains": "2025-04-26 16:09:41 +0000"
     },
@@ -10307,6 +10308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 18:12:13 +0000"
+    },
+    "done": true
+  },
   "palegardenbackport:recipes/building_blocks/pale_oak_slab": {
     "criteria": {
       "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
@@ -10316,6 +10323,12 @@
   "suppsquared:recipes/decorations/palegardenbackport/item_shelf_pale_oak": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-27 18:16:58 +0000"
     },
     "done": true
   },
@@ -10619,6 +10632,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-27 18:12:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_barn_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10688,6 +10707,12 @@
   "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_desk_drawer": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-04-27 18:23:43 +0000"
     },
     "done": true
   },
@@ -10802,6 +10827,12 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_blossom_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 18:12:13 +0000"
     },
     "done": true
   },
