@@ -8828,3 +8828,76 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 19:16:41.175] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
 [27Apr2025 19:17:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
 [27Apr2025 19:17:02.043] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 19:18:13.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Drowned
+[27Apr2025 19:18:14.098] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 19:18:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Skeleton
+[27Apr2025 19:18:16.935] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 19:18:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 19:18:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 19:20:23.017] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49786, l='ServerLevel[NewWorld]', x=-285.50, y=74.00, z=190.50]
+[27Apr2025 19:22:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Corpse Fish
+[27Apr2025 19:22:25.150] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:22:42.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[27Apr2025 19:22:42.744] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:22:54.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Nightmare Stalker
+[27Apr2025 19:22:54.434] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:23:06.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf withered away whilst fighting Nightmare Stalker
+[27Apr2025 19:23:06.680] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:23:57.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[27Apr2025 19:23:57.689] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:25:13.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nino_alf lost connection: Disconnected
+[27Apr2025 19:25:13.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf left the game
+[27Apr2025 19:25:13.578] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[27Apr2025 19:25:13.578] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nino_alf
+[27Apr2025 19:25:18.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: galaxy65m lost connection: Disconnected
+[27Apr2025 19:25:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m left the game
+[27Apr2025 19:25:18.627] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[27Apr2025 19:25:18.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client galaxy65m
+[27Apr2025 19:25:26.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancito_KawaiiG lost connection: You logged in from another location
+[27Apr2025 19:25:26.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG left the game
+[27Apr2025 19:25:26.020] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dd0c9ee7-09db-3026-99f3-011946b01c57
+[27Apr2025 19:25:26.020] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pancito_KawaiiG
+[27Apr2025 19:25:26.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancito_KawaiiG[/127.244.71.71:48211] logged in with entity id 53136 at (-589.9440844685437, 103.0, 19.045570216503496)
+[27Apr2025 19:25:26.035] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[27Apr2025 19:25:26.035] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[27Apr2025 19:25:26.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG joined the game
+[27Apr2025 19:25:26.107] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dd0c9ee7-09db-3026-99f3-011946b01c57
+[27Apr2025 19:25:26.134] [Server thread/INFO] [Jade/]: Syncing config to Pancito_KawaiiG (dd0c9ee7-09db-3026-99f3-011946b01c57)
+[27Apr2025 19:25:27.787] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[27Apr2025 19:25:27.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: galaxy65m[/127.229.166.241:41975] logged in with entity id 53137 at (-122.6959216891221, 87.12160004615784, -168.29256305479007)
+[27Apr2025 19:25:27.791] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[27Apr2025 19:25:27.791] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[27Apr2025 19:25:27.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m joined the game
+[27Apr2025 19:25:27.965] [Server thread/INFO] [Jade/]: Syncing config to galaxy65m (df766ae6-3208-3bf3-8926-4d9ae4061ea9)
+[27Apr2025 19:25:27.966] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[27Apr2025 19:25:29.833] [Server thread/INFO] [ping-wheel/]: Channel update: Pancito_KawaiiG -> default
+[27Apr2025 19:25:29.833] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pancito_KawaiiG (18)
+[27Apr2025 19:25:29.834] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pancito_KawaiiG
+[27Apr2025 19:25:30.800] [Server thread/INFO] [ping-wheel/]: Channel update: galaxy65m -> default
+[27Apr2025 19:25:30.828] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of galaxy65m (18)
+[27Apr2025 19:25:30.829] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to galaxy65m
+[27Apr2025 19:25:33.445] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 19:25:37.932] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4df1681[id=<null>,name=nino_alf,properties={},legacy=false] (/127.33.4.109:60701) lost connection: Disconnected
+[27Apr2025 19:25:37.994] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 19:25:42.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nino_alf[/127.33.4.109:47441] logged in with entity id 53352 at (-100.31168936651007, 60.200000047683716, -212.83270572289027)
+[27Apr2025 19:25:42.700] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[27Apr2025 19:25:42.700] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[27Apr2025 19:25:42.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf joined the game
+[27Apr2025 19:25:42.798] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[27Apr2025 19:25:42.824] [Server thread/INFO] [Jade/]: Syncing config to nino_alf (0353a03d-9344-32df-a99e-c414295afec8)
+[27Apr2025 19:25:44.385] [Server thread/INFO] [ping-wheel/]: Channel update: nino_alf -> default
+[27Apr2025 19:25:44.428] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nino_alf (18)
+[27Apr2025 19:25:44.429] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nino_alf
+[27Apr2025 19:25:48.036] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:25:57.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 19:26:00.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 19:26:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 19:26:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 19:26:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Adventure Mode]
+[27Apr2025 19:26:43.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 19:26:45.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Adventure Mode]
+[27Apr2025 19:26:48.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf hit the ground too hard
+[27Apr2025 19:26:48.493] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:26:50.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 19:27:28.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Door Knight
+[27Apr2025 19:27:28.756] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.

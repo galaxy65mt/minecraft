@@ -8375,5 +8375,11 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2025-04-27 19:18:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
