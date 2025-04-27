@@ -6299,6 +6299,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-27 18:45:48 +0000"
@@ -6371,6 +6377,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_fence_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2025-04-27 18:28:43 +0000"
@@ -6389,6 +6401,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-27 17:47:48 +0000"
@@ -6401,9 +6419,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2025-04-27 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6422,6 +6452,18 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 17:56:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6491,6 +6533,18 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_boards_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/mangrove_palisade": {
     "criteria": {
       "has_log": "2025-04-27 17:47:59 +0000"
@@ -6518,6 +6572,12 @@
   "galosphere:recipes/building_blocks/polished_rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
     "criteria": {
       "has_rose_pink_salt": "2025-04-27 18:25:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6554,6 +6614,12 @@
   "galosphere:recipes/decorations/pink_salt_wall": {
     "criteria": {
       "has_pink_salt": "2025-04-27 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6611,15 +6677,39 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_fence_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 17:47:59 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_trapdoor_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2025-04-27 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6701,9 +6791,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6722,6 +6824,12 @@
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-04-27 17:22:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6749,9 +6857,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-27 17:47:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6770,6 +6890,12 @@
   "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6833,6 +6959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/mangrove_trapdoor_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
@@ -6854,6 +6986,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 17:56:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6929,6 +7067,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-04-27 18:17:12 +0000"
@@ -6944,6 +7088,12 @@
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -6983,6 +7133,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
@@ -6992,6 +7148,12 @@
   "woodworks:recipes/redstone/mangrove_fence_gate_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7013,6 +7175,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/polished_rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
     "criteria": {
       "has_rose_pink_salt": "2025-04-27 18:25:24 +0000"
@@ -7025,9 +7199,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7049,6 +7235,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
@@ -7067,6 +7259,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_slab_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/seashell_tiles": {
     "criteria": {
       "has_seashell": "2025-04-27 18:42:33 +0000"
@@ -7082,6 +7292,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-27 18:14:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7169,6 +7385,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/spruce_button_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/mangrove_planks_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
@@ -7190,6 +7412,12 @@
   "galosphere:recipes/building_blocks/rose_pink_salt_stairs": {
     "criteria": {
       "has_rose_pink_salt": "2025-04-27 18:25:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7229,6 +7457,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
@@ -7247,6 +7481,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-27 18:45:48 +0000"
@@ -7256,6 +7496,12 @@
   "galosphere:recipes/building_blocks/polished_rose_pink_salt_from_rose_pink_salt_stonecutting": {
     "criteria": {
       "has_rose_pink_salt": "2025-04-27 18:25:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7301,6 +7547,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
@@ -7319,6 +7571,18 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/pink_salt_stairs": {
     "criteria": {
       "has_pink_salt": "2025-04-27 18:25:19 +0000"
@@ -7328,6 +7592,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-04-27 18:14:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7358,6 +7628,12 @@
   "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-04-27 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7415,6 +7691,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-27 17:47:48 +0000"
@@ -7445,6 +7727,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 17:47:59 +0000"
@@ -7454,6 +7742,18 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_spruce": {
+    "criteria": {
+      "has_item": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7478,6 +7778,18 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-04-27 18:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },
@@ -7547,6 +7859,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:08:22 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/watercraft_frame_flat": {
     "criteria": {
       "has_scaffolding": "2025-04-27 19:06:18 +0000"
@@ -7574,6 +7898,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-27 18:24:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-27 19:08:22 +0000"
     },
     "done": true
   },

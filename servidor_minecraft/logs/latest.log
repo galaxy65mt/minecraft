@@ -8810,3 +8810,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 19:07:37.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44708, l='ServerLevel[NewWorld]', x=108.50, y=83.00, z=1270.50]
 [27Apr2025 19:07:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m bled to death
 [27Apr2025 19:07:39.697] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 19:07:42.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[27Apr2025 19:07:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 19:07:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[27Apr2025 19:07:53.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 19:08:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Stray
+[27Apr2025 19:08:45.193] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:11:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Enchanter]
+[27Apr2025 19:14:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Dark Forging]
+[27Apr2025 19:14:24.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[27Apr2025 19:14:24.998] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:15:09.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Baby Spider
+[27Apr2025 19:15:09.538] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 19:15:23.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[27Apr2025 19:15:23.644] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 19:16:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was impaled by Drowned
+[27Apr2025 19:16:41.175] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 19:17:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[27Apr2025 19:17:02.043] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.

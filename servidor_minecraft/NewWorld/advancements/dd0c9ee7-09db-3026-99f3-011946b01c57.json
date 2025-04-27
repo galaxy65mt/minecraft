@@ -10202,6 +10202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-27 19:16:39 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
     "criteria": {
       "has_light_brown_bark_mushroom": "2025-04-27 18:42:23 +0000"
@@ -10229,6 +10235,12 @@
   "everycomp:recipes/decorations/vf/palegardenbackport/hay_pale_oak_chair": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
     },
     "done": true
   },
@@ -10283,6 +10295,12 @@
   "chimes:recipes/decorations/glass_bells": {
     "criteria": {
       "has_bottle": "2025-04-27 18:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-27 19:16:39 +0000"
     },
     "done": true
   },
@@ -10604,6 +10622,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_classic_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10898,15 +10922,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gunpowder": {
     "criteria": {
       "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-27 19:11:52 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:recipes/food/golden_apple_stew": {
     "criteria": {
       "has_suspicious_stew": "2025-04-27 18:30:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 19:16:24 +0000"
     },
     "done": true
   },
@@ -10937,6 +10979,12 @@
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-04-27 18:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-27 19:16:24 +0000"
     },
     "done": true
   },
