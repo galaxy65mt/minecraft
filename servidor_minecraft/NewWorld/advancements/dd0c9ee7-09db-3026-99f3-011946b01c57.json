@@ -10177,6 +10177,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "forge:dyes/brown": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 17:46:35 +0000"
@@ -10192,6 +10198,18 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_cottage_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-04-27 18:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-27 18:45:54 +0000"
     },
     "done": true
   },
@@ -10291,6 +10309,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-04-27 18:56:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_seat": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10336,6 +10360,12 @@
   "suppsquared:recipes/decorations/palegardenbackport/item_shelf_pale_oak": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-04-27 18:45:54 +0000"
     },
     "done": true
   },
@@ -10477,9 +10507,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/fd/palegardenbackport/pale_oak_cabinet": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-04-27 18:42:37 +0000"
     },
     "done": true
   },
@@ -10549,6 +10591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_classic_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10567,9 +10615,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-04-27 18:45:54 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/redstone/abnww/palegardenbackport/trapped_pale_oak_chest": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/dye_brown_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
     },
     "done": true
   },
@@ -10627,6 +10687,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 18:56:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/vs/palegardenbackport/bundled_pale_oak_posts": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10654,6 +10726,12 @@
   "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_half_drawers_4": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-04-27 18:42:37 +0000"
     },
     "done": true
   },
@@ -10708,6 +10786,12 @@
   "everycomp:recipes/building_blocks/c/palegardenbackport/pale_oak_window": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-04-27 18:45:54 +0000"
     },
     "done": true
   },
@@ -10825,6 +10909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-04-27 18:42:37 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:46:35 +0000"
@@ -10834,6 +10924,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-27 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-04-27 18:42:10 +0000"
     },
     "done": true
   },

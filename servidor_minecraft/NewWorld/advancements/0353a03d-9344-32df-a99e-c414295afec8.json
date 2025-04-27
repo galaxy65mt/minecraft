@@ -3271,6 +3271,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-04-27 18:45:52 +0000",
       "cooked_mutton": "2025-04-26 21:23:53 +0000",
       "apple": "2025-04-26 17:00:58 +0000",
       "spider_eye": "2025-04-27 17:30:13 +0000",
@@ -3278,6 +3279,7 @@
       "bread": "2025-04-26 16:59:08 +0000",
       "rotten_flesh": "2025-04-27 17:14:02 +0000",
       "golden_carrot": "2025-04-27 17:20:41 +0000",
+      "cooked_rabbit": "2025-04-27 18:45:39 +0000",
       "cod": "2025-04-26 17:01:53 +0000"
     },
     "done": false
@@ -6296,6 +6298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-27 18:45:48 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/mangrove_post": {
     "criteria": {
       "has_item": "2025-04-27 17:47:59 +0000"
@@ -6317,6 +6325,12 @@
   "woodworks:recipes/decorations/mangrove_sign_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 18:45:48 +0000"
     },
     "done": true
   },
@@ -6452,9 +6466,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-27 18:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 17:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-27 18:45:48 +0000"
     },
     "done": true
   },
@@ -6614,6 +6640,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-27 18:45:36 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/pink_salt_brick_wall_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-04-27 18:25:19 +0000"
@@ -6647,6 +6679,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-27 18:43:06 +0000"
     },
     "done": true
   },
@@ -6836,6 +6874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-27 18:45:36 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-04-27 18:25:19 +0000"
@@ -6851,6 +6895,12 @@
   "woodworks:recipes/decorations/mangrove_ladder_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 18:56:11 +0000"
     },
     "done": true
   },
@@ -6908,6 +6958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-27 18:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 17:56:00 +0000"
@@ -6947,6 +7003,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_warped_chair": {
     "criteria": {
       "has_white_wool": "2025-04-27 17:17:22 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/sandcastle": {
+    "criteria": {
+      "has_seashell": "2025-04-27 18:42:33 +0000"
     },
     "done": true
   },
@@ -6992,9 +7054,21 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/seashell_block": {
+    "criteria": {
+      "has_seashell": "2025-04-27 18:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 17:56:00 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_tiles": {
+    "criteria": {
+      "has_seashell": "2025-04-27 18:42:33 +0000"
     },
     "done": true
   },
@@ -7043,6 +7117,12 @@
   "galosphere:recipes/building_blocks/pink_salt_brick_stairs_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-04-27 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-04-27 18:44:56 +0000"
     },
     "done": true
   },
@@ -7118,6 +7198,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-27 18:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-27 17:56:00 +0000"
@@ -7136,6 +7222,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-27 18:45:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-04-27 17:17:22 +0000"
@@ -7151,6 +7243,12 @@
   "woodworks:recipes/redstone/spruce_fence_gate_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2025-04-27 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-27 18:45:48 +0000"
     },
     "done": true
   },
@@ -7190,6 +7288,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-27 18:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-04-27 17:22:10 +0000"
@@ -7226,6 +7330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-27 18:43:06 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
     "criteria": {
       "has_mangrove_logs": "2025-04-27 17:47:59 +0000"
@@ -7247,6 +7357,12 @@
   "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-04-27 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 18:56:11 +0000"
     },
     "done": true
   },
@@ -7349,6 +7465,12 @@
   "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-27 18:56:11 +0000"
     },
     "done": true
   },

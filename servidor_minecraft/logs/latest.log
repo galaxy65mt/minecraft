@@ -8733,3 +8733,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 18:35:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has reached the goal [Exorcism]
 [27Apr2025 18:35:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf bled to death
 [27Apr2025 18:35:22.778] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:39:31.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf hit the ground too hard
+[27Apr2025 18:39:31.434] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:41:17.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG burned to death
+[27Apr2025 18:41:17.287] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 18:41:41.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28720, l='ServerLevel[NewWorld]', x=-279.50, y=83.00, z=184.50]
+[27Apr2025 18:41:56.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28875, l='ServerLevel[NewWorld]', x=-194.50, y=70.00, z=232.50]
+[27Apr2025 18:43:20.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29529, l='ServerLevel[NewWorld]', x=-372.50, y=74.00, z=167.50]
+[27Apr2025 18:43:43.236] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-454, y=18, z=498}
+[27Apr2025 18:44:41.405] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-4}
+[27Apr2025 18:44:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Hunt and Gather]
+[27Apr2025 18:47:12.330] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-326, y=-30, z=986}
+[27Apr2025 18:47:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Enderman
+[27Apr2025 18:47:17.022] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:51:04.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was impaled by Drowned
+[27Apr2025 18:51:04.674] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:52:21.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Dread Hound
+[27Apr2025 18:52:21.600] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:54:05.612] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35569, l='ServerLevel[NewWorld]', x=-58.50, y=71.00, z=253.50]
+[27Apr2025 18:55:11.446] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-126, y=4, z=644}
+[27Apr2025 18:55:11.446] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-126, y=4, z=645}
+[27Apr2025 18:56:01.883] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=16, y=-31, z=623}
+[27Apr2025 18:56:01.884] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=15, y=-31, z=622}
+[27Apr2025 18:56:24.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG fell while climbing
+[27Apr2025 18:56:24.507] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 18:56:34.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf hit the ground too hard
+[27Apr2025 18:56:34.687] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 18:57:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Dread Hound
+[27Apr2025 18:57:01.882] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
