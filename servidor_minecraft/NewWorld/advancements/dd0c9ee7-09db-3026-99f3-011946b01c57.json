@@ -3818,6 +3818,7 @@
       "apple": "2025-04-26 19:11:58 +0000",
       "bread": "2025-04-26 17:13:57 +0000",
       "rotten_flesh": "2025-04-26 19:41:56 +0000",
+      "golden_carrot": "2025-04-27 17:39:08 +0000",
       "cooked_rabbit": "2025-04-26 17:54:05 +0000",
       "cooked_salmon": "2025-04-26 19:27:33 +0000",
       "carrot": "2025-04-26 18:36:15 +0000"
@@ -10191,6 +10192,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-27 17:34:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-04-27 17:22:05 +0000"
@@ -10263,6 +10270,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-27 17:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-04-27 17:29:59 +0000"
@@ -10323,6 +10336,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-27 17:39:51 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
@@ -10332,6 +10351,12 @@
   "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_classic_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-27 17:39:51 +0000"
     },
     "done": true
   },
