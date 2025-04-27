@@ -8761,3 +8761,52 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 18:56:34.687] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
 [27Apr2025 18:57:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Dread Hound
 [27Apr2025 18:57:01.882] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 18:57:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Dread Hound
+[27Apr2025 18:57:32.757] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 18:58:25.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Door Knight
+[27Apr2025 18:58:25.589] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 18:58:42.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38379, l='ServerLevel[NewWorld]', x=-133.50, y=74.00, z=260.50]
+[27Apr2025 18:58:44.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38405, l='ServerLevel[NewWorld]', x=-188.50, y=72.00, z=205.50]
+[27Apr2025 18:59:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has reached the goal [Exorcism]
+[27Apr2025 19:00:43.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Corpse Fly
+[27Apr2025 19:00:43.330] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 19:01:04.190] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-127, y=-28, z=978}
+[27Apr2025 19:01:16.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40125, l='ServerLevel[NewWorld]', x=-342.50, y=71.00, z=776.50]
+[27Apr2025 19:02:36.243] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-26, y=9, z=967}
+[27Apr2025 19:02:36.244] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-26, y=9, z=966}
+[27Apr2025 19:02:36.244] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-31, y=18, z=961}
+[27Apr2025 19:02:46.057] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[27Apr2025 19:02:46.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: galaxy65m[/127.229.166.241:44727] logged in with entity id 40667 at (-125.77388591585917, 85.0, -187.61974130138623)
+[27Apr2025 19:02:46.063] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[27Apr2025 19:02:46.064] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[27Apr2025 19:02:46.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m joined the game
+[27Apr2025 19:02:46.234] [Server thread/INFO] [Jade/]: Syncing config to galaxy65m (df766ae6-3208-3bf3-8926-4d9ae4061ea9)
+[27Apr2025 19:02:46.236] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[27Apr2025 19:02:49.237] [Server thread/INFO] [ping-wheel/]: Channel update: galaxy65m -> default
+[27Apr2025 19:02:49.238] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of galaxy65m (18)
+[27Apr2025 19:02:49.238] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to galaxy65m
+[27Apr2025 19:02:56.397] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 19:03:30.103] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-300, y=-50, z=1103}
+[27Apr2025 19:03:30.103] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-300, y=-50, z=1104}
+[27Apr2025 19:04:07.502] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-347, y=30, z=1269}
+[27Apr2025 19:04:34.342] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-257, y=-9, z=1374}
+[27Apr2025 19:04:48.114] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-48, y=-30, z=1388}
+[27Apr2025 19:04:53.541] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-161, y=-30, z=1392}
+[27Apr2025 19:04:58.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42746, l='ServerLevel[NewWorld]', x=29.50, y=73.00, z=1150.50]
+[27Apr2025 19:05:26.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG fell from a high place
+[27Apr2025 19:05:26.794] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 19:05:32.518] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43284, l='ServerLevel[NewWorld]', x=81.50, y=73.00, z=1237.50]
+[27Apr2025 19:05:51.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43575, l='ServerLevel[NewWorld]', x=26.50, y=72.00, z=1159.50]
+[27Apr2025 19:06:02.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43655, l='ServerLevel[NewWorld]', x=116.50, y=85.00, z=1257.50]
+[27Apr2025 19:06:22.886] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=283, y=23, z=1460}
+[27Apr2025 19:06:27.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was shot by Skeleton
+[27Apr2025 19:06:27.855] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 19:06:39.517] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43992, l='ServerLevel[NewWorld]', x=115.50, y=87.00, z=1271.50]
+[27Apr2025 19:06:40.098] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[27Apr2025 19:06:40.099] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[27Apr2025 19:06:40.099] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[27Apr2025 19:06:40.099] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[27Apr2025 19:07:02.867] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44286, l='ServerLevel[NewWorld]', x=104.50, y=85.00, z=1316.50]
+[27Apr2025 19:07:37.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44708, l='ServerLevel[NewWorld]', x=108.50, y=83.00, z=1270.50]
+[27Apr2025 19:07:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m bled to death
+[27Apr2025 19:07:39.697] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.

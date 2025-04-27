@@ -3280,7 +3280,8 @@
       "rotten_flesh": "2025-04-27 17:14:02 +0000",
       "golden_carrot": "2025-04-27 17:20:41 +0000",
       "cooked_rabbit": "2025-04-27 18:45:39 +0000",
-      "cod": "2025-04-26 17:01:53 +0000"
+      "cod": "2025-04-26 17:01:53 +0000",
+      "carrot": "2025-04-27 18:58:04 +0000"
     },
     "done": false
   },
@@ -7534,9 +7535,21 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+    "criteria": {
+      "has_scaffolding": "2025-04-27 19:06:18 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_ladder_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2025-04-27 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_flat": {
+    "criteria": {
+      "has_scaffolding": "2025-04-27 19:06:18 +0000"
     },
     "done": true
   },

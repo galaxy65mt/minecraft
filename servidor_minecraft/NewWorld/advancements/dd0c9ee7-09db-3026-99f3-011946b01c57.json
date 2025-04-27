@@ -3815,6 +3815,7 @@
       "baked_potato": "2025-04-27 18:06:14 +0000",
       "cookie": "2025-04-26 17:03:20 +0000",
       "suspicious_stew": "2025-04-27 18:30:17 +0000",
+      "glow_berries": "2025-04-27 18:56:55 +0000",
       "cooked_chicken": "2025-04-26 17:54:02 +0000",
       "chicken": "2025-04-26 19:36:14 +0000",
       "cooked_mutton": "2025-04-27 17:22:08 +0000",
@@ -10486,6 +10487,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-27 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-04-27 18:59:31 +0000"
     },
     "done": true
   },
