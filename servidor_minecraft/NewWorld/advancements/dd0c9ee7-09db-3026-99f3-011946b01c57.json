@@ -10142,9 +10142,321 @@
     },
     "done": true
   },
+  "palegardenbackport:recipes/building_blocks/pale_oak_trapdoor": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_beam": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/palegardenbackport/pale_oak_post": {
+    "criteria": {
+      "has_log": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/palegardenbackport/bundled_stripped_pale_oak_posts": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/palegardenbackport/hay_pale_oak_chair": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ls/palegardenbackport/pale_oak_shutter": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_bamboo_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/palegardenbackport/pale_oak_beehive": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_support": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_seat": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_table": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/palegardenbackport/item_shelf_pale_oak": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/palegardenbackport/sign_post_pale_oak": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_door": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_ladder": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_trim": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_chest": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/palegardenbackport/pale_oak_cabinet": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_stool": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_desk": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_classic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/redstone/abnww/palegardenbackport/trapped_pale_oak_chest": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/palegardenbackport/cut_pale_oak_post": {
+    "criteria": {
+      "has_log": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_paper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/palegardenbackport/bundled_pale_oak_posts": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/palegardenbackport/pale_oak_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/palegardenbackport/stripped_pale_oak_post": {
+    "criteria": {
+      "has_log": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/abnww/palegardenbackport/chiseled_pale_oak_bookshelf": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_fence_gate": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_fence": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_barn_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/palegardenbackport/pale_oak_window": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnww/palegardenbackport/pale_oak_boards": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_sign": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/food/salted_jerky": {
     "criteria": {
       "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_desk_drawer": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_barred_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
     },
     "done": true
   },
@@ -10154,9 +10466,69 @@
     },
     "done": true
   },
+  "palegardenbackport:recipes/transportation/oak_boat_from_pale_oak_planks": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/palegardenbackport/cut_stripped_pale_oak_post": {
+    "criteria": {
+      "has_log": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/crafting_pale_oak_button_from_pale_oak_planks": {
+    "criteria": {
+      "has_pale_oak_planks": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_beach_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/palegardenbackport/pale_oak_palisade": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/abnww/palegardenbackport/pale_oak_bookshelf": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/cured_membrane": {
     "criteria": {
       "has_pink_salt_shard": "2025-04-27 17:10:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/palegardenbackport/pale_oak_chair": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/palegardenbackport/pale_oak_window_pane": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/palegardenbackport/pale_oak_bark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-27 17:15:33 +0000"
     },
     "done": true
   },

@@ -7787,5 +7787,17 @@
     },
     "done": true
   },
+  "realmrpg_quests:refuse_quest": {
+    "criteria": {
+      "refuse_quest_0": "2025-04-27 17:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-27 17:20:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
