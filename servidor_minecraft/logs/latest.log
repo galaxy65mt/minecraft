@@ -9037,3 +9037,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [27Apr2025 19:56:21.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=96, z=-166} BlockPos{x=-126, y=95, z=-165}
 [27Apr2025 19:57:29.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
 [27Apr2025 19:57:29.685] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 20:00:14.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[27Apr2025 20:00:14.836] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 20:01:38.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancito_KawaiiG moved wrongly!
+[27Apr2025 20:01:42.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Zombie
+[27Apr2025 20:01:42.287] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 20:01:57.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 20:02:01.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 20:02:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 20:02:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 20:03:05.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 20:03:08.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 20:03:10.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 20:03:16.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 20:03:21.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/67914, l='ServerLevel[NewWorld]', x=172.13, y=94.00, z=-114.22] died: Angry Creeper was slain by Controlled Baby Skeleton
+[27Apr2025 20:03:53.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Spider
+[27Apr2025 20:03:53.743] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[27Apr2025 20:04:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Sweet Dreams]
+[27Apr2025 20:04:46.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Dread Hound
+[27Apr2025 20:04:46.780] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[27Apr2025 20:04:56.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 20:05:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 20:05:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was blown up by Creeper
+[27Apr2025 20:05:21.540] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[27Apr2025 20:05:40.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 20:05:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 20:07:45.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[27Apr2025 20:07:47.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[27Apr2025 20:08:33.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[27Apr2025 20:08:34.014] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
