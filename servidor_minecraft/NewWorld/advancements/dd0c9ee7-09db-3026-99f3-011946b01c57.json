@@ -11156,6 +11156,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-27 19:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-04-27 19:32:01 +0000"
@@ -11165,6 +11171,18 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-04-27 19:44:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-04-27 19:48:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-04-27 19:48:32 +0000"
     },
     "done": true
   },
@@ -11198,6 +11216,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-04-27 19:48:32 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_woodburner": {
     "criteria": {
       "has_item": "2025-04-27 19:32:32 +0000"
@@ -11210,9 +11234,21 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-04-27 19:48:30 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_long": {
     "criteria": {
       "has_item": "2025-04-27 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-04-27 19:48:32 +0000"
     },
     "done": true
   },
