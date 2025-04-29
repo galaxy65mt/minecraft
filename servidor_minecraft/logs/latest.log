@@ -8666,3 +8666,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [29Apr2025 22:25:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf withered away whilst fighting Nightmare Stalker
 [29Apr2025 22:25:38.523] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
 [29Apr2025 22:25:38.722] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 22:28:23.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Missionary
+[29Apr2025 22:28:23.259] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 22:30:06.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Missionary
+[29Apr2025 22:30:06.343] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 22:30:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m fell from a high place
+[29Apr2025 22:30:11.416] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 22:30:15.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 22:30:24.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 22:31:53.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Creeper
+[29Apr2025 22:31:53.203] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 22:32:30.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Skeleton
+[29Apr2025 22:32:30.464] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
