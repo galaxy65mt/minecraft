@@ -8808,3 +8808,78 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [29Apr2025 23:28:14.724] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [29Apr2025 23:28:20.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was shot by Skeleton
 [29Apr2025 23:28:20.225] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[29Apr2025 23:33:41.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Suit Up]
+[29Apr2025 23:34:10.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was slain by Zombie
+[29Apr2025 23:34:10.954] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
+	at com.google.common.collect.Iterators$1.next(Iterators.java:146) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157543_(PersistentEntitySectionManager.java:175) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:160) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287189_(ChunkHolder.java:346) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_143003_(ChunkHolder.java:416) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.level.DistanceManager.m_183906_(DistanceManager.java:120) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.server.level.DistanceManager.m_140805_(DistanceManager.java:119) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8489_(ServerChunkCache.java:273) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23937!/:?]
+	... 5 more
+[29Apr2025 23:34:11.057] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0c9b12f2-265e-4940-920c-f08314a37d55
+[29Apr2025 23:34:11.066] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/minecraft/servidor_minecraft/./crash-reports/crash-2025-04-29_23.34.10-server.txt
+[29Apr2025 23:34:11.066] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[29Apr2025 23:34:11.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Apr2025 23:34:11.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Apr2025 23:34:11.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Apr2025 23:34:11.426] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[29Apr2025 23:34:11.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/minecraft:overworld
+[29Apr2025 23:34:12.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/minecraft:the_nether
+[29Apr2025 23:34:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/witherstormmod:bowels
+[29Apr2025 23:34:12.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/undergarden:undergarden
+[29Apr2025 23:34:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/voidscape:void
+[29Apr2025 23:34:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/deeperdarker:otherside
+[29Apr2025 23:34:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/minecraft:the_end
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (NewWorld): All chunks are saved
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 23:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Apr2025 23:34:12.824] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Apr2025 23:34:12.826] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29Apr2025 23:34:12.829] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29Apr2025 23:34:12.833] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[29Apr2025 23:34:12.842] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
