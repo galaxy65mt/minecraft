@@ -8646,15 +8646,123 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_3": "2025-04-29 22:32:16 +0000"
     },
     "done": false
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_boards": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_venison": {
     "criteria": {
       "has_venison": "2025-04-29 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "shutter:recipes/misc/oak_shutter": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-04-29 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-29 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
     },
     "done": true
   },
@@ -8664,15 +8772,81 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-29 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-04-29 22:50:55 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-29 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-04-29 22:42:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-29 23:08:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-29 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-29 23:08:26 +0000"
     },
     "done": true
   },
