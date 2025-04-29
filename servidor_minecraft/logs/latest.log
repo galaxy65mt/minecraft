@@ -8758,3 +8758,53 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [29Apr2025 23:17:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Lifestealer
 [29Apr2025 23:17:17.667] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
 [29Apr2025 23:18:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[29Apr2025 23:18:20.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:18:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[29Apr2025 23:18:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:18:49.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Skeleton
+[29Apr2025 23:18:50.186] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 23:18:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:19:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:19:12.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was blown up by Creeper
+[29Apr2025 23:19:12.569] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[29Apr2025 23:19:40.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Spider
+[29Apr2025 23:19:40.720] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 23:19:52.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:19:54.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:20:23.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:20:29.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:22:09.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m bled to death
+[29Apr2025 23:22:09.384] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 23:23:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
+[29Apr2025 23:23:04.769] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 23:23:16.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:23:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:23:31.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was shot by Skeleton
+[29Apr2025 23:23:31.915] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[29Apr2025 23:24:22.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:24:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:24:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:24:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:24:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Decaying Zombie
+[29Apr2025 23:24:42.887] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 23:24:44.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:24:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set the time to 1000]
+[29Apr2025 23:24:54.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:25:34.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nino_alf lost connection: Timed out
+[29Apr2025 23:25:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf left the game
+[29Apr2025 23:25:34.013] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[29Apr2025 23:25:34.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nino_alf
+[29Apr2025 23:25:34.060] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Apr2025 23:25:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was blown up by Creeper
+[29Apr2025 23:25:45.641] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[29Apr2025 23:25:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Gave 1 [Mechanical Drill] to galaxy65m]
+[29Apr2025 23:25:48.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 23:25:50.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 23:27:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has completed the challenge [Power Crystal]
+[29Apr2025 23:28:01.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Murmur
+[29Apr2025 23:28:01.967] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 23:28:06.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Flexible Schedule]
+[29Apr2025 23:28:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Spider
+[29Apr2025 23:28:14.724] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 23:28:20.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was shot by Skeleton
+[29Apr2025 23:28:20.225] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
