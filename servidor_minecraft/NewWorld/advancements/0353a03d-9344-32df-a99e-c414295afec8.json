@@ -647,6 +647,7 @@
       "minecraft:stony_shore": "2025-04-27 17:33:41 +0000",
       "minecraft:snowy_taiga": "2025-04-26 18:00:30 +0000",
       "minecraft:grove": "2025-04-26 16:30:40 +0000",
+      "minecraft:jagged_peaks": "2025-04-29 22:52:43 +0000",
       "minecraft:cold_ocean": "2025-04-26 17:52:03 +0000",
       "minecraft:forest": "2025-04-26 16:27:28 +0000",
       "minecraft:deep_cold_ocean": "2025-04-26 17:53:59 +0000",
@@ -8654,6 +8655,18 @@
   "naturalist:recipes/food/cooked_venison": {
     "criteria": {
       "has_venison": "2025-04-29 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-04-29 22:50:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-04-29 22:50:55 +0000"
     },
     "done": true
   },

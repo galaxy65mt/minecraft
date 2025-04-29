@@ -8698,3 +8698,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [29Apr2025 22:43:45.202] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
 [29Apr2025 22:44:15.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m bled to death
 [29Apr2025 22:44:15.511] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 22:50:40.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Corpse Fly
+[29Apr2025 22:50:41.186] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 22:51:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Skeleton
+[29Apr2025 22:51:58.791] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 22:52:22.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 22:52:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 22:52:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[29Apr2025 22:52:54.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[29Apr2025 22:53:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf froze to death
+[29Apr2025 22:53:24.005] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 22:54:56.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG bled to death
+[29Apr2025 22:54:57.036] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[29Apr2025 22:56:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG tried to swim in lava
+[29Apr2025 22:56:09.320] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
