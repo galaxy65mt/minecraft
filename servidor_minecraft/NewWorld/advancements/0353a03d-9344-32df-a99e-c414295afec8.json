@@ -8651,5 +8651,17 @@
     },
     "done": false
   },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-04-29 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-04-29 22:42:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
