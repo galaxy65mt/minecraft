@@ -678,6 +678,7 @@
       "minecraft:ocean": "2025-04-26 16:26:15 +0000",
       "minecraft:snowy_beach": "2025-04-26 18:13:19 +0000",
       "minecraft:flower_forest": "2025-04-26 16:25:53 +0000",
+      "minecraft:frozen_peaks": "2025-04-29 22:54:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-26 16:54:45 +0000",
       "minecraft:meadow": "2025-04-26 16:55:21 +0000",
       "minecraft:plains": "2025-04-25 15:49:53 +0000"
@@ -8378,6 +8379,24 @@
   "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
     "criteria": {
       "has_bark_mushroom": "2025-04-27 19:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-29 22:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-29 22:55:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-29 22:55:09 +0000"
     },
     "done": true
   },

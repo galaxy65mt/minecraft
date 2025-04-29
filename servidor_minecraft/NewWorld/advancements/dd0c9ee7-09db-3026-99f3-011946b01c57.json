@@ -11312,9 +11312,27 @@
     },
     "done": false
   },
+  "rubinated_nether:recipes/misc/frosted_ice_from_water_bucket": {
+    "criteria": {
+      "has_water": "2025-04-29 22:55:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-04-29 22:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-29 22:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-29 22:55:55 +0000"
     },
     "done": true
   },

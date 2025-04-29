@@ -8712,3 +8712,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [29Apr2025 22:54:57.036] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
 [29Apr2025 22:56:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG tried to swim in lava
 [29Apr2025 22:56:09.320] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[29Apr2025 22:58:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Corpse Fish
+[29Apr2025 22:58:25.474] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 23:01:44.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf withered away
+[29Apr2025 23:01:45.169] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[29Apr2025 23:02:26.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[29Apr2025 23:02:26.514] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 23:03:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Controlled Baby Skeleton
+[29Apr2025 23:03:28.566] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[29Apr2025 23:04:31.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Crops of the Wild]
