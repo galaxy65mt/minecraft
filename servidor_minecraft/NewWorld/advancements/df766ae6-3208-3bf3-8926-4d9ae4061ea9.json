@@ -8557,6 +8557,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-03 19:35:20 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-03 17:59:04 +0000"
@@ -8887,6 +8893,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-03 19:35:20 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_seat": {
     "criteria": {
       "has_plank": "2025-05-03 18:27:29 +0000"
@@ -9127,6 +9139,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-05-03 19:33:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-05-03 18:27:29 +0000"
@@ -9256,6 +9274,12 @@
   "decorative_blocks:recipes/building_blocks/acacia_palisade": {
     "criteria": {
       "has_log": "2025-05-03 18:57:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-05-03 19:35:20 +0000"
     },
     "done": true
   },
