@@ -8732,3 +8732,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 17:43:50.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
 [03May2025 17:44:12.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Spiders Mother
 [03May2025 17:44:12.576] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:47:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m fell from a high place
+[03May2025 17:47:37.477] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:47:46.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[03May2025 17:47:52.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[03May2025 17:48:09.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[03May2025 17:48:16.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[03May2025 17:48:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[03May2025 17:48:25.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[03May2025 17:49:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Summoned new Primed TNT]
+[03May2025 17:51:10.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[03May2025 17:51:15.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[03May2025 17:52:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[03May2025 17:52:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Baby Spider
+[03May2025 17:52:40.526] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 17:52:42.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Skeleton
+[03May2025 17:52:42.993] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
