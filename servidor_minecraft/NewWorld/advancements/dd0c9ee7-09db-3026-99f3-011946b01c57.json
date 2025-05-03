@@ -668,6 +668,7 @@
       "minecraft:river": "2025-04-26 16:21:45 +0000",
       "minecraft:stony_shore": "2025-04-26 16:59:09 +0000",
       "minecraft:grove": "2025-04-26 16:33:16 +0000",
+      "minecraft:jagged_peaks": "2025-05-03 20:02:16 +0000",
       "minecraft:forest": "2025-04-26 16:21:29 +0000",
       "minecraft:ocean": "2025-04-26 17:37:34 +0000",
       "minecraft:frozen_peaks": "2025-04-26 16:17:54 +0000",
@@ -3822,6 +3823,7 @@
       "chicken": "2025-04-26 19:36:14 +0000",
       "cooked_mutton": "2025-04-27 17:22:08 +0000",
       "apple": "2025-04-26 19:11:58 +0000",
+      "pumpkin_pie": "2025-05-03 20:01:36 +0000",
       "bread": "2025-04-26 17:13:57 +0000",
       "rotten_flesh": "2025-04-26 19:41:56 +0000",
       "golden_carrot": "2025-04-27 17:39:08 +0000",
@@ -5689,7 +5691,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "fletcher": "2025-04-26 17:23:06 +0000"
+      "fletcher": "2025-04-26 17:23:06 +0000",
+      "farmer": "2025-05-03 20:01:49 +0000"
     },
     "done": false
   },
@@ -11357,6 +11360,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-03 20:04:41 +0000",
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 20:04:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-04-29 23:33:41 +0000"
@@ -11396,6 +11472,12 @@
   "dungeonnowloading:recipes/misc/spawner_blade": {
     "criteria": {
       "has_spawner_frame": "2025-04-29 23:33:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 20:00:41 +0000"
     },
     "done": true
   },
@@ -11552,6 +11634,12 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-05-03 18:00:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-03 20:00:01 +0000"
     },
     "done": true
   },
@@ -12011,6 +12099,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-03 20:00:41 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-05-03 17:58:59 +0000"
@@ -12062,6 +12156,12 @@
   "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-03 18:27:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-03 20:00:41 +0000"
     },
     "done": true
   },
