@@ -8830,3 +8830,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 18:18:11.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m gave Cursed Armor a massive flash of power.
 [03May2025 18:18:11.831] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [03May2025 18:24:56.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Penteconter]
+[03May2025 18:25:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [One Ticket Please]
+[03May2025 18:27:06.467] [Server thread/WARN] [Puzzles Lib/]: Requesting invalid capability fastitemframes:item_frame_color for type fuzs/fastitemframes/capability/ItemFrameColorCapability from holder ItemFrame['Item Frame'/11707, l='ServerLevel[NewWorld]', x=325.50, y=112.50, z=-578.03, removed=KILLED]
+[03May2025 18:29:08.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
+[03May2025 18:29:08.955] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:29:18.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:31:35.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Corpse Fish
+[03May2025 18:31:35.657] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:31:41.056] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:31:41.056] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03May2025 18:31:41.057] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03May2025 18:31:41.057] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03May2025 18:31:41.057] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:31:41.057] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:31:41.057] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:31:41.057] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:31:41.057] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:31:52.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:32:56.954] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21347, l='ServerLevel[NewWorld]', x=-7.50, y=72.00, z=373.50]
+[03May2025 18:33:17.857] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21853, l='ServerLevel[NewWorld]', x=-260.50, y=72.00, z=686.50]
+[03May2025 18:33:55.207] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22181, l='ServerLevel[NewWorld]', x=-277.50, y=74.00, z=693.50]
+[03May2025 18:34:09.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22207, l='ServerLevel[NewWorld]', x=-237.50, y=71.00, z=693.50]
+[03May2025 18:34:10.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22211, l='ServerLevel[NewWorld]', x=-229.50, y=73.00, z=681.50]
+[03May2025 18:34:36.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22288, l='ServerLevel[NewWorld]', x=-229.50, y=73.00, z=683.50]
+[03May2025 18:35:22.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22465, l='ServerLevel[NewWorld]', x=-246.50, y=72.00, z=708.50]
+[03May2025 18:35:22.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22471, l='ServerLevel[NewWorld]', x=-277.50, y=74.00, z=694.50]
