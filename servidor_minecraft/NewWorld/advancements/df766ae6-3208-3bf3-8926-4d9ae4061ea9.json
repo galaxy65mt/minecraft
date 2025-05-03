@@ -8449,6 +8449,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-03 18:13:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-03 17:59:04 +0000"
@@ -8530,6 +8536,12 @@
   "valhelsia_furniture:recipes/decorations/purple_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-03 18:21:05 +0000"
     },
     "done": true
   },
@@ -8770,6 +8782,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-03 18:11:49 +0000"
     },
     "done": true
   },
