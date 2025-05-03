@@ -9000,3 +9000,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 19:23:43.979] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [03May2025 19:34:00.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG drowned
 [03May2025 19:34:00.732] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[03May2025 19:37:38.225] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[03May2025 19:37:38.226] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[03May2025 19:37:38.228] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[03May2025 19:37:38.228] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[03May2025 19:39:34.349] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-794, y=-35, z=-354}
+[03May2025 19:39:34.350] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-794, y=-35, z=-354}
+[03May2025 19:39:34.350] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-794, y=-35, z=-354}
+[03May2025 19:44:47.173] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 19:44:47.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 19:44:47.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 19:44:47.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 19:44:47.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 19:44:47.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[03May2025 19:44:47.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 19:45:23.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[03May2025 19:45:23.533] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 19:50:27.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[03May2025 19:50:28.079] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 19:51:24.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has reached the goal [Fighting Nightmares]
+[03May2025 19:54:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was doomed to fall by Drowned
+[03May2025 19:54:58.832] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[03May2025 19:55:28.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: galaxy65m lost connection: Disconnected
+[03May2025 19:55:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m left the game
+[03May2025 19:55:28.526] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[03May2025 19:55:28.530] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client galaxy65m
+[03May2025 19:55:43.996] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[03May2025 19:55:43.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: galaxy65m[/127.229.166.241:52807] logged in with entity id 58348 at (-569.6773241468777, 52.0, 596.9388262558379)
+[03May2025 19:55:44.001] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[03May2025 19:55:44.001] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[03May2025 19:55:44.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m joined the game
+[03May2025 19:55:44.149] [Server thread/INFO] [Jade/]: Syncing config to galaxy65m (df766ae6-3208-3bf3-8926-4d9ae4061ea9)
+[03May2025 19:55:44.151] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[03May2025 19:55:47.432] [Server thread/INFO] [ping-wheel/]: Channel update: galaxy65m -> default
+[03May2025 19:55:47.432] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of galaxy65m (18)
+[03May2025 19:55:47.432] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to galaxy65m
+[03May2025 19:55:55.630] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 19:56:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
+[03May2025 19:56:12.636] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
