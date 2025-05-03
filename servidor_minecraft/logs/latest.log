@@ -8995,3 +8995,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 19:15:48.123] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [03May2025 19:16:07.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
 [03May2025 19:16:07.881] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 19:19:44.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Voluntary Exile]
+[03May2025 19:23:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Skeleton
+[03May2025 19:23:43.979] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.

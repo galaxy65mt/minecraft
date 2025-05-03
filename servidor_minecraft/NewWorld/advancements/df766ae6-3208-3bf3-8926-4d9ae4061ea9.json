@@ -8977,6 +8977,12 @@
     },
     "done": true
   },
+  "palegardenbackport:recipes/building_blocks/crafting_pale_oak_planks_from_pale_oak_log": {
+    "criteria": {
+      "has_pale_oak_log": "2025-05-03 19:26:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-03 18:57:44 +0000"
@@ -9343,6 +9349,12 @@
     },
     "done": true
   },
+  "palegardenbackport:recipes/building_blocks/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2025-05-03 19:25:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-03 19:03:29 +0000"
@@ -9424,6 +9436,12 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-03 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "palegardenbackport:recipes/building_blocks/pale_oak_wood_from_block": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 19:26:10 +0000"
     },
     "done": true
   },
@@ -9964,6 +9982,12 @@
   "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-03 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-05-03 19:26:20 +0000"
     },
     "done": true
   },

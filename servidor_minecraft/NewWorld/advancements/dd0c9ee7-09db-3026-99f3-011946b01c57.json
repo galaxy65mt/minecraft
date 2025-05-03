@@ -2582,6 +2582,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-03 19:19:44 +0000",
       "minecraft:skeleton": "2025-04-26 16:22:03 +0000",
       "minecraft:spider": "2025-04-26 16:49:32 +0000",
       "minecraft:creeper": "2025-04-26 18:30:59 +0000",
@@ -11416,6 +11417,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-03 19:19:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-03 18:56:27 +0000"
@@ -11434,9 +11441,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-05-03 19:16:35 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-03 18:27:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-03 19:16:31 +0000"
     },
     "done": true
   },
@@ -11515,6 +11534,12 @@
   "upgrade_aquatic:recipes/building_blocks/dye_yellow_bedroll": {
     "criteria": {
       "has_needed_dye": "2025-05-03 18:56:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-03 19:16:31 +0000"
     },
     "done": true
   },
@@ -11638,6 +11663,12 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2025-05-03 19:15:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-05-03 18:27:11 +0000"
@@ -11653,6 +11684,12 @@
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2025-05-03 18:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 19:16:31 +0000"
     },
     "done": true
   },
@@ -11743,6 +11780,12 @@
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-05-03 18:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 19:16:31 +0000"
     },
     "done": true
   },
