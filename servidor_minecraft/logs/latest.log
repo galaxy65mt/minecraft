@@ -8752,3 +8752,76 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 17:58:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf drowned
 [03May2025 17:58:39.726] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
 [03May2025 18:02:55.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has completed the challenge [What a Nugget, Once Again!]
+[03May2025 18:05:35.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has completed the challenge [It Spreads]
+[03May2025 18:06:36.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Drowned
+[03May2025 18:06:37.231] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 18:06:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03May2025 18:07:05.373] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[03May2025 18:07:05.373] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03May2025 18:07:05.373] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[03May2025 18:07:05.373] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03May2025 18:07:20.429] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[03May2025 18:07:20.429] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03May2025 18:07:20.429] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[03May2025 18:07:20.429] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03May2025 18:07:52.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[03May2025 18:07:54.529] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[03May2025 18:07:54.530] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[03May2025 18:07:54.531] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[03May2025 18:07:54.533] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[03May2025 18:07:54.533] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[03May2025 18:07:54.533] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[03May2025 18:07:54.595] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[03May2025 18:07:54.596] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[03May2025 18:07:54.596] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[03May2025 18:07:54.596] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[03May2025 18:07:54.596] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[03May2025 18:07:54.596] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[03May2025 18:07:54.597] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[03May2025 18:07:54.598] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[03May2025 18:07:54.598] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[03May2025 18:07:54.598] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[03May2025 18:07:54.599] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[03May2025 18:07:54.599] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[03May2025 18:07:54.599] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[03May2025 18:07:54.599] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[03May2025 18:07:55.979] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-57, z=1073}
+[03May2025 18:07:55.980] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[03May2025 18:07:55.980] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-57, z=1073}
+[03May2025 18:07:55.981] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-124, y=-57, z=1073}
+[03May2025 18:07:55.981] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[03May2025 18:07:56.112] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1048}
+[03May2025 18:07:56.113] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1049}
+[03May2025 18:07:56.113] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1051}
+[03May2025 18:07:56.198] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[03May2025 18:07:56.687] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[03May2025 18:07:56.687] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[03May2025 18:07:56.687] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[03May2025 18:07:56.687] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[03May2025 18:07:56.687] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-54, z=1050}
+[03May2025 18:08:19.286] [Worker-Main-37/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[03May2025 18:08:23.651] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[03May2025 18:08:27.358] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:08:27.362] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03May2025 18:08:27.362] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03May2025 18:08:27.362] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03May2025 18:08:27.362] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:08:27.362] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:08:27.362] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:08:27.363] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:08:27.364] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:10:11.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Ice Bucket Challenge]
+[03May2025 18:10:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has made the advancement [Ice Bucket Challenge]
+[03May2025 18:11:52.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 18:11:52.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[03May2025 18:11:52.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[03May2025 18:11:52.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 18:11:52.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[03May2025 18:11:52.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[03May2025 18:11:52.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 18:11:53.425] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 18:11:53.425] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 18:11:53.425] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[03May2025 18:13:00.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Nightmare Stalker
+[03May2025 18:13:01.056] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 18:13:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has reached the goal [Fighting Nightmares]

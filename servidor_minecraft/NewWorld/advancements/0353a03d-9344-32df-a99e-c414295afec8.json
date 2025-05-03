@@ -3273,6 +3273,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-03 18:06:23 +0000",
+      "cookie": "2025-05-03 18:11:07 +0000",
       "cooked_chicken": "2025-05-03 17:46:13 +0000",
       "chicken": "2025-04-27 18:45:52 +0000",
       "cooked_mutton": "2025-04-26 21:23:53 +0000",
@@ -8985,6 +8987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 18:10:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-03 17:43:36 +0000"
@@ -9051,6 +9059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 18:10:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-03 17:43:36 +0000"
@@ -9075,6 +9089,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-03 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 18:02:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-03 17:43:36 +0000"
@@ -9096,6 +9122,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-03 17:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-03 18:02:51 +0000"
     },
     "done": true
   },
@@ -9216,6 +9248,12 @@
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-03 17:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-03 18:10:11 +0000"
     },
     "done": true
   },
@@ -9345,6 +9383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-03 18:02:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-03 17:43:36 +0000"
@@ -9390,6 +9434,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-03 17:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 18:10:11 +0000"
     },
     "done": true
   },

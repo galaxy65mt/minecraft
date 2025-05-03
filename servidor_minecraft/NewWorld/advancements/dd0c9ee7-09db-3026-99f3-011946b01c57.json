@@ -2585,6 +2585,7 @@
       "minecraft:skeleton": "2025-04-26 16:22:03 +0000",
       "minecraft:spider": "2025-04-26 16:49:32 +0000",
       "minecraft:creeper": "2025-04-26 18:30:59 +0000",
+      "minecraft:witch": "2025-05-03 18:10:44 +0000",
       "minecraft:zombie": "2025-04-26 18:40:07 +0000",
       "minecraft:drowned": "2025-04-26 17:39:27 +0000"
     },
@@ -11396,9 +11397,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-05-03 18:03:49 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-03 17:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-03 18:05:06 +0000"
     },
     "done": true
   },
@@ -11408,9 +11421,39 @@
     },
     "done": true
   },
+  "additionaladditions:obtain_chicken_nugget": {
+    "criteria": {
+      "obtain": "2025-05-03 18:02:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-05-03 18:05:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-05-03 18:03:49 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-05-03 17:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-03 18:05:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-05-03 18:03:49 +0000"
     },
     "done": true
   },
