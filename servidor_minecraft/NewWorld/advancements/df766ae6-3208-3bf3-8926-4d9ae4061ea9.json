@@ -8455,6 +8455,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-03 18:36:25 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-03 18:27:29 +0000"
@@ -8791,6 +8797,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/cherry_seat": {
     "criteria": {
       "has_plank": "2025-05-03 17:59:04 +0000"
@@ -8833,6 +8845,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-05-03 18:27:29 +0000"
@@ -8848,6 +8866,12 @@
   "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-03 18:41:12 +0000"
     },
     "done": true
   },
@@ -8887,6 +8911,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_warped_chair": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
@@ -8902,6 +8932,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-03 18:27:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
     },
     "done": true
   },
@@ -8932,6 +8968,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
     },
     "done": true
   },
@@ -9031,6 +9073,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-05-03 18:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
@@ -9103,6 +9151,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_birch_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_stool": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
@@ -9112,6 +9166,12 @@
   "woodworks:recipes/decorations/dark_oak_boards": {
     "criteria": {
       "has_dark_oak_slab": "2025-05-03 18:27:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
     },
     "done": true
   },
@@ -9160,6 +9220,18 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-03 18:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-03 18:36:25 +0000"
     },
     "done": true
   },
@@ -9277,6 +9349,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_warped_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-03 18:27:29 +0000"
@@ -9292,6 +9370,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_stool": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
     },
     "done": true
   },
@@ -9427,6 +9511,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-05-03 18:35:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_warped_chair": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
@@ -9448,6 +9538,12 @@
   "valhelsia_furniture:recipes/decorations/blue_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-03 18:27:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-03 18:36:25 +0000"
     },
     "done": true
   },

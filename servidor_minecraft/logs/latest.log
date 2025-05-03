@@ -8855,3 +8855,68 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 18:34:36.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22288, l='ServerLevel[NewWorld]', x=-229.50, y=73.00, z=683.50]
 [03May2025 18:35:22.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22465, l='ServerLevel[NewWorld]', x=-246.50, y=72.00, z=708.50]
 [03May2025 18:35:22.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22471, l='ServerLevel[NewWorld]', x=-277.50, y=74.00, z=694.50]
+[03May2025 18:35:34.803] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22590, l='ServerLevel[NewWorld]', x=-147.50, y=73.00, z=761.50]
+[03May2025 18:36:12.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[03May2025 18:36:12.414] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:36:17.467] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:36:17.468] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03May2025 18:36:17.468] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03May2025 18:36:17.468] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03May2025 18:36:17.468] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:36:17.468] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:36:17.468] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:36:17.469] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:36:17.469] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:36:19.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:37:18.404] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23994, l='ServerLevel[NewWorld]', x=-294.50, y=70.00, z=703.50]
+[03May2025 18:39:04.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24812, l='ServerLevel[NewWorld]', x=-374.50, y=74.00, z=166.50]
+[03May2025 18:39:25.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
+[03May2025 18:39:25.751] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:39:29.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:39:30.140] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:39:30.140] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03May2025 18:39:30.140] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03May2025 18:39:30.141] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03May2025 18:39:30.141] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:39:30.141] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:39:30.141] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:39:30.142] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:39:30.142] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:39:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
+[03May2025 18:39:32.847] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:39:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:39:37.100] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:39:37.101] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03May2025 18:39:37.101] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03May2025 18:39:37.101] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03May2025 18:39:37.101] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:39:37.102] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:39:37.102] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:39:37.103] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:39:37.103] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:40:34.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie Bruiser
+[03May2025 18:40:35.284] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 18:40:55.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Zombie Bruiser
+[03May2025 18:40:55.940] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 18:41:12.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has reached the goal [Exorcism]
+[03May2025 18:41:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Cobweb Entanglement]
+[03May2025 18:41:31.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was shot by Skeleton
+[03May2025 18:41:32.032] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:41:38.611] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:41:38.611] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03May2025 18:41:38.611] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03May2025 18:41:38.611] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03May2025 18:41:38.612] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:41:38.612] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:41:38.612] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03May2025 18:41:38.612] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:41:38.612] [Worker-Main-33/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03May2025 18:41:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie Lumberjack
+[03May2025 18:41:44.046] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 18:42:50.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:44:07.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[03May2025 18:44:07.219] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:45:18.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[03May2025 18:45:19.170] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 18:45:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[03May2025 18:45:26.871] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
