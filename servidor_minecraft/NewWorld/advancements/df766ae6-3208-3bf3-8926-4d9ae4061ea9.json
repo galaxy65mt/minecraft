@@ -8412,9 +8412,339 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/cherry_fence_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_slab_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_support": {
+    "criteria": {
+      "has_plank": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_cherry": {
+    "criteria": {
+      "has_item": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_seat": {
+    "criteria": {
+      "has_plank": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_boards_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/cherry_ladder_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-05-03 17:35:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-05-03 18:01:05 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_stairs_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-03 17:58:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cherry_desk_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/cherry_button_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-03 17:59:04 +0000"
     },
     "done": true
   },

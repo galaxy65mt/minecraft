@@ -8748,3 +8748,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 17:52:40.526] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
 [03May2025 17:52:42.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Skeleton
 [03May2025 17:52:42.993] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:58:23.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has made the advancement [Penteconter]
+[03May2025 17:58:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf drowned
+[03May2025 17:58:39.726] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:02:55.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG has completed the challenge [What a Nugget, Once Again!]
