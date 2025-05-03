@@ -3627,7 +3627,8 @@
     "criteria": {
       "barrel": "2025-04-26 17:15:07 +0000",
       "loom": "2025-04-26 18:44:17 +0000",
-      "blastfurnace": "2025-04-26 20:21:13 +0000"
+      "blastfurnace": "2025-04-26 20:21:13 +0000",
+      "cauldron": "2025-05-03 17:32:23 +0000"
     },
     "done": false
   },
@@ -8878,6 +8879,78 @@
   "farmersdelight:recipes/food/beef_patty_from_smoking": {
     "criteria": {
       "beef_patty": "2025-04-29 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-05-03 17:32:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-03 17:36:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-05-03 17:32:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-05-03 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-05-03 17:32:42 +0000"
     },
     "done": true
   },

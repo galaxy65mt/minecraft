@@ -11312,91 +11312,6 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-29 23:34:08 +0000",
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-29 23:33:27 +0000"
-    },
-    "done": false
-  },
-  "dungeonnowloading:recipes/combat/spawner_chestplate": {
-    "criteria": {
-      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
-    },
-    "done": true
-  },
-  "rubinated_nether:recipes/misc/frosted_ice_from_water_bucket": {
-    "criteria": {
-      "has_water": "2025-04-29 22:55:55 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-04-29 22:29:36 +0000"
@@ -11409,15 +11324,15 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_boots": {
+  "rubinated_nether:recipes/misc/frosted_ice_from_water_bucket": {
     "criteria": {
-      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
+      "has_water": "2025-04-29 22:55:55 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "iron_leggings": "2025-04-29 23:33:41 +0000"
+      "has_water_bucket": "2025-04-29 22:55:55 +0000"
     },
     "done": true
   },
@@ -11433,33 +11348,45 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_leggings": {
-    "criteria": {
-      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
     "criteria": {
       "has_jukebox_upgrade": "2025-04-29 23:27:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_water_bucket": "2025-04-29 22:55:55 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_helmet": {
-    "criteria": {
-      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
+      "iron_leggings": "2025-04-29 23:33:41 +0000"
     },
     "done": true
   },
   "dungeonnowloading:recipes/misc/soul_silk": {
     "criteria": {
       "has_soul_cloth": "2025-04-29 23:33:42 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-29 23:33:58 +0000"
     },
     "done": true
   },

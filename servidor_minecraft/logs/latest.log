@@ -8702,3 +8702,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 17:33:43.184] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [03May2025 17:33:53.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Skeleton
 [03May2025 17:33:53.934] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 17:34:27.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Baby Spider
+[03May2025 17:34:27.765] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:35:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Skeleton
+[03May2025 17:35:18.015] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:35:42.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancito_KawaiiG[/127.244.71.71:40431] logged in with entity id 1549 at (-595.5, 103.0, 15.5)
+[03May2025 17:35:42.990] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[03May2025 17:35:42.990] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[03May2025 17:35:43.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG joined the game
+[03May2025 17:35:43.057] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dd0c9ee7-09db-3026-99f3-011946b01c57
+[03May2025 17:35:43.106] [Server thread/INFO] [Jade/]: Syncing config to Pancito_KawaiiG (dd0c9ee7-09db-3026-99f3-011946b01c57)
+[03May2025 17:35:46.000] [Server thread/INFO] [ping-wheel/]: Channel update: Pancito_KawaiiG -> default
+[03May2025 17:35:46.030] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pancito_KawaiiG (18)
+[03May2025 17:35:46.031] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pancito_KawaiiG
+[03May2025 17:35:53.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has reached the goal [Arachnophobe's Nightmare]
+[03May2025 17:35:53.626] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[03May2025 17:36:13.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was shot by Skeleton
+[03May2025 17:36:13.643] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:36:45.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf has made the advancement [Bonfire Lit]
+[03May2025 17:37:19.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Restless Spirit
+[03May2025 17:37:20.319] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:38:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was blown up by Creeper
+[03May2025 17:38:19.520] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 17:40:57.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was blown up by Creeper
+[03May2025 17:40:57.525] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:43:38.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m fell from a high place
+[03May2025 17:43:38.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Spectator Mode]
+[03May2025 17:43:38.792] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 17:43:50.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[03May2025 17:44:12.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was doomed to fall by Spiders Mother
+[03May2025 17:44:12.576] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
