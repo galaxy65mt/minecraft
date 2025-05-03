@@ -8413,6 +8413,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 18:43:12 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_stool": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
@@ -8434,6 +8440,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_jungle_chair": {
     "criteria": {
       "has_black_wool": "2025-05-03 18:08:02 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 18:43:12 +0000"
     },
     "done": true
   },
@@ -8911,6 +8923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-03 18:43:12 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
     "criteria": {
       "has_gray_carpet": "2025-05-03 18:35:29 +0000"
@@ -8980,6 +8998,12 @@
   "woodworks:recipes/decorations/cherry_ladder_from_cherry_planks_sawing": {
     "criteria": {
       "has_cherry_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 18:43:12 +0000"
     },
     "done": true
   },
@@ -9283,6 +9307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-03 18:43:12 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-03 18:27:29 +0000"
@@ -9394,6 +9424,12 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-03 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-03 18:43:12 +0000"
     },
     "done": true
   },
