@@ -8948,3 +8948,37 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03May2025 18:54:59.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -118.500000, 109.500000, -152.500000]
 [03May2025 18:55:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -132.500000, 49.500000, -171.500000]
 [03May2025 18:55:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:56:11.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -612.500000, 63.500000, 578.500000]
+[03May2025 18:56:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:56:45.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -128.500000, 47.500000, -171.500000]
+[03May2025 18:56:54.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancito_KawaiiG was blown up by Creeper
+[03May2025 18:56:54.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03May2025 18:56:54.408] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancito_KawaiiG accepted server config.
+[03May2025 18:56:55.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[03May2025 18:56:55.395] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 18:57:00.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[03May2025 18:57:00.794] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 18:58:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -129.500000, 48.500000, -172.500000]
+[03May2025 18:58:35.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 18:59:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -609.500000, 52.500000, 576.500000]
+[03May2025 18:59:17.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -127.500000, 47.500000, -168.500000]
+[03May2025 18:59:27.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -612.500000, 63.500000, 578.500000]
+[03May2025 18:59:46.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 19:00:17.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -129.500000, 48.500000, -169.500000]
+[03May2025 19:00:27.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03May2025 19:00:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -128.500000, 47.500000, -170.500000]
+[03May2025 19:00:43.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 19:00:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -608.500000, 52.500000, 576.500000]
+[03May2025 19:01:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03May2025 19:01:54.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -604.500000, 52.500000, 575.500000]
+[03May2025 19:02:00.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03May2025 19:02:06.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -128.500000, 47.500000, -171.500000]
+[03May2025 19:02:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03May2025 19:02:50.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -129.500000, 48.500000, -170.500000]
+[03May2025 19:02:59.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03May2025 19:03:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[03May2025 19:03:17.224] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[03May2025 19:03:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf hit the ground too hard
+[03May2025 19:03:20.627] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[03May2025 19:04:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was slain by Zombie
+[03May2025 19:04:26.877] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
