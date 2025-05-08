@@ -8675,3 +8675,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08May2025 01:25:46.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
 [08May2025 01:25:46.443] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
 [08May2025 01:42:28.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <galaxy65m> que ubop
+[08May2025 01:45:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Teleported galaxy65m to -608.500000, 52.500000, 575.500000]
+[08May2025 01:48:31.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: galaxy65m lost connection: Disconnected
+[08May2025 01:48:31.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m left the game
+[08May2025 01:48:31.763] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[08May2025 01:48:31.763] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client galaxy65m
+[08May2025 01:48:44.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08May2025 01:48:44.668] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[08May2025 01:48:44.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08May2025 01:48:44.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08May2025 01:48:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08May2025 01:48:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/minecraft:overworld
+[08May2025 01:48:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/undergarden:undergarden
+[08May2025 01:48:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/voidscape:void
+[08May2025 01:48:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/witherstormmod:bowels
+[08May2025 01:48:44.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/deeperdarker:otherside
+[08May2025 01:48:44.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/minecraft:the_end
+[08May2025 01:48:44.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NewWorld]'/minecraft:the_nether
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (NewWorld): All chunks are saved
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08May2025 01:48:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08May2025 01:48:44.918] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08May2025 01:48:44.920] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08May2025 01:48:44.924] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[08May2025 01:48:44.931] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[08May2025 01:48:44.932] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
