@@ -8646,3 +8646,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08May2025 18:34:20.709] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
 [08May2025 18:38:16.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Zombie
 [08May2025 18:38:16.988] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
+[08May2025 18:50:52.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf fell from a high place
+[08May2025 18:50:53.099] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
