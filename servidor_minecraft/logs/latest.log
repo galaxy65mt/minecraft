@@ -8672,3 +8672,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08May2025 01:12:22.301] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of galaxy65m (18)
 [08May2025 01:12:22.304] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to galaxy65m
 [08May2025 01:12:36.190] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[08May2025 01:25:46.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
+[08May2025 01:25:46.443] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
