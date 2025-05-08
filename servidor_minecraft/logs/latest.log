@@ -8641,3 +8641,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08May2025 18:28:54.012] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of galaxy65m (18)
 [08May2025 18:28:54.013] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to galaxy65m
 [08May2025 18:29:15.384] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[08May2025 18:34:20.707] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08May2025 18:34:20.709] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08May2025 18:34:20.709] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08May2025 18:38:16.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nino_alf was doomed to fall by Zombie
+[08May2025 18:38:16.988] [Server thread/INFO] [do_a_barrel_roll/]: Client of nino_alf accepted server config.
