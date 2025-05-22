@@ -8758,3 +8758,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [22May2025 22:49:06.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-641, y=6, z=548} BlockPos{x=-641, y=5, z=547}
 [22May2025 22:49:09.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m was slain by Zombie
 [22May2025 22:49:09.771] [Server thread/INFO] [do_a_barrel_roll/]: Client of galaxy65m accepted server config.
+[22May2025 23:00:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[22May2025 23:00:25.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[22May2025 23:00:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
+[22May2025 23:02:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Survival Mode]
+[22May2025 23:02:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: galaxy65m has reached the goal [Strong Arms]
+[22May2025 23:05:29.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [galaxy65m: Set own game mode to Creative Mode]
